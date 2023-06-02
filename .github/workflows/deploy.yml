@@ -20,7 +20,7 @@ jobs:
           port: ${{ secrets.PORT }}
           key: ${{ secrets.SSHKEY }}
           source: "."
-          target: "/home/admin/web/mycard77.win/backend_forzza_win"
+          target: "/home/admin/web/mycard77.win/ref_backend_forzza"
       - name: Executing remote command
         uses: appleboy/ssh-action@master
         with:
@@ -29,6 +29,6 @@ jobs:
           port: ${{ secrets.PORT }}
           key: ${{ secrets.SSHKEY }}
           script: |
-            cd web/mycard77.win/backend_forzza_win
+            cd web/mycard77.win/ref_backend_forzza
             php artisan view:cache
             pwd
