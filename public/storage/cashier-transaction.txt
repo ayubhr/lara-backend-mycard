@@ -1,0 +1,60 @@
+<div data-role='page' id='cashier' data-url='cashier_aspx' data-lang='fr'>
+   <div data-tap-toggle='false' data-role='header' data-theme='b' class='tw-header' data-add-back-btn='true' data-back-btn-text='.'>
+      <h1 class='tw-header-title'>Cash register - Cashier transactions</h1>
+   </div>
+   <div data-role='content'>
+      <ul data-role='listview' data-inset='false' style='margin-bottom:17px;margin-top:-1.1em;'>
+         <li class='ui-li-admin-account'>
+             <div class='ui-grid-a'><div class='ui-block-a tw-inline tw-bold' style="line-height:18px; padding-left:8px; padding-top:4px;">*username* : <span id="adminBalance">*funds*</span></div>
+            <div class='ui-block-b'>
+               <a href='#till' class='ui-btn ui-btn-c ui-btn-inline ui-icon-home ui-btn-icon-notext tw-btn-rounded'>I</a>
+               <form method="post" class="nested-form" id="reloadForm" action="admin/account/balance"><input name="__RequestVerificationToken" type="hidden" value="a224e07095b1ea2b39d076b9d1f418aa_c89ce6d788a5b6a4692389c8d8720eb6" /><input type="hidden" name="routeAction" value="account/balance" /><input type="submit" data-icon="refresh" data-theme="c" data-inline="true" data-iconpos="notext" class="tw-btn-rounded" /></form>
+            </div>
+   </div>
+   </li></ul>
+   <div id='twMainContentView'>
+      <ul data-role='listview' data-inset='false'>
+         <li data-role='list-divider' class='tw-ui-li-divider' data-theme='b'>Cashier transactions</li>
+      </ul>
+      <form method="post" action="admin/cashier/transactions" autocomplete="off">
+         <input type="hidden" name="routeAction" id="routeAction" value="cashier/transactions" /><input name="__RequestVerificationToken" type="hidden" value="a224e07095b1ea2b39d076b9d1f418aa_c89ce6d788a5b6a4692389c8d8720eb6" />
+         <ul data-role='listview' data-inset='false' style='padding-top:17px;'>
+             <li class="ui-field-contain"><label for="fdate" style="font-size:14px;">Start date</label><input type="text" name="fdate" id="fdate" data-role="datebox" data-options='{"mode":"calbox","overrideDateFormat":"%d.%m.%Y","useLang":null,"defaultValue":"*today_date*","beforeToday":true,"useFocus":true}' data-mini='true' value='*today_date*' min="*min_date*" data-valgroup='dFilterForms' data-valfunction='dateValid'>        </li>
+             <li class="ui-field-contain"><label for="edate" style="font-size:14px;">Ending date</label><input type="text" name="edate" id="edate" data-role="datebox" data-options='{"mode":"calbox","overrideDateFormat":"%d.%m.%Y","useLang":null,"defaultValue":"*today_date*","beforeToday":true,"useFocus":true}' data-mini='true' value='*today_date*' min="*min_date*" data-valgroup='dFilterForms' data-valfunction='dateValid'></li>
+            <li class="ui-field-contain"><input type='submit' value='Repr&#233;senter' data-icon='search' data-theme="c" data-iconpos='right' data-mini="true" onclick='return validateGroup("cashierTransactions");' /></li>
+         </ul>
+      </form>
+      <ul class='tw-ul-overview ul-simple transactional-list' data-role='listview' data-theme='a' data-count-theme='a' data-inset='false' style="margin-top:16px;">
+         <li data-role='list-divider' class='tw-ui-li-divider ui-li-divider ui-bar-b '>
+            <div class='ui-grid-b tw-fsize11'>
+               <div class='ui-block-a tw-inline'></div>
+               <div class='ui-block-b tw-inline'>Term</div>
+               <div class='ui-block-c tw-inline tw-text-rintent10'>Amount</div>
+            </div>
+         </li>
+         <li class="pt-row">
+            <div class='ui-grid-b tw-fsize11'>
+               <div class='ui-block-a tw-inline'></div>
+               <div class='ui-block-b tw-inline tw-break-word'>Dépôt totale en esp&#232;ces</div>
+               <div class='ui-block-c tw-inline tw-text-right tw-break-word user-active'>*total_deposit*</div>
+            </div>
+         </li>
+         <li class="pt-row">
+            <div class='ui-grid-b tw-fsize11'>
+               <div class='ui-block-a tw-inline'></div>
+               <div class='ui-block-b tw-inline tw-break-word'>Retrait totale en esp&#232;ces</div>
+               <div class='ui-block-c tw-inline tw-text-right tw-break-word user-inactive'>-*total_retrait*</div>
+            </div>
+         </li>
+         <li class="pt-row">
+            <div class='ui-grid-a tw-fsize11'>
+               <div class='ui-block-a tw-inline'></div>
+               <div class='ui-block-b tw-inline tw-text-right tw-bold  user-*state*'>*sign**merge*</div>
+            </div>
+         </li>         
+      </ul>
+   </div>
+   <div id='twInfoContentView' class='fieldHide'></div>
+   <div id='masterDetailsBox' class='fieldHide'></div>
+</div>
+</div>

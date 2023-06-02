@@ -1,0 +1,12 @@
+<ul class='ui-listview' id='twInfoView' data-role='listview' data-inset='true'>
+			    <li class='ui-li-divider ui-bar-inherit ui-first-child' data-role='list-divider' role='heading'>Info</li></li>
+			    <li class='ui-li-static ui-body-inherit'>
+			        <div class='tw-info tw-msg-warning3'>
+			            </div>
+			            <div class='tw-popup-box'>*message_error*
+			                </div> </li>
+			                <li class='ui-li-static ui-body-inherit'> <input type='button' data-iconpos='right' data-icon='check' data-mini='true' data-theme='e' onclick='hideInfoView();' value='OK'  /> </li></ul></li>
+			            </div>
+			        </div>
+			    </li>
+			</ul>

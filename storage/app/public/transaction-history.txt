@@ -1,0 +1,51 @@
+<div data-role='page' id='partners' data-url='partners_aspx' data-lang='en'>
+   <div data-tap-toggle='false' data-role='header' data-theme='b' class='tw-header' data-add-back-btn='true' data-back-btn-text='.'>
+      <h1 class='tw-header-title'>Partners - Transaction history</h1>
+   </div>
+   <div data-role='content'>
+      <ul data-role='listview' data-inset='false' style='margin-bottom:17px;margin-top:-1.1em;'>
+         <li class='ui-li-admin-account'>
+            <div class='ui-grid-a'>
+                <div class='ui-block-a tw-inline tw-bold' style="line-height:18px; padding-left:8px; padding-top:4px;">*username* : <span id="adminBalance">*funds*</span></div>
+               <div class='ui-block-b'>
+                  <a href='#till' class='ui-btn ui-btn-c ui-btn-inline ui-icon-home ui-btn-icon-notext tw-btn-rounded'>I</a>
+                  <form method="post" class="nested-form" id="reloadForm" action="admin/account/balance"><input name="__RequestVerificationToken" type="hidden" value="6b618d1ad406ae31becb653e19ffee02_782f4af57a6e70558f9c3657607761e0" /><input type="hidden" name="routeAction" value="account/balance" /><input type="submit" data-icon="refresh" data-theme="c" data-inline="true" data-iconpos="notext" class="tw-btn-rounded" /></form>
+               </div>
+            </div>
+         </li>
+      </ul>
+      <div id='twMainContentView'>
+         <ul data-role='listview' data-inset='false'>
+            <li data-role='list-divider' class='tw-ui-li-divider' data-theme='b'>Transaction history</li>
+         </ul>
+         <form method="post" action="admin/partners/transaction-history" autocomplete="off">
+            <input type="hidden" name="routeAction" id="routeAction" value="partners/transaction-history" /><input name="__RequestVerificationToken" type="hidden" value="6b618d1ad406ae31becb653e19ffee02_782f4af57a6e70558f9c3657607761e0" />
+            <ul data-role='listview' data-inset='false' style='padding-top:17px;'>
+                 <li class="ui-field-contain"><label for="fdate" style="font-size:14px;">Start date</label><input type="text" name="fdate" id="fdate" data-role="datebox" data-options='{"mode":"calbox","overrideDateFormat":"%d.%m.%Y","useLang":null,"defaultValue":"*today_date*","beforeToday":true,"useFocus":true}' data-mini='true' value='*today_date*' min="*min_date*" data-valgroup='dFilterForms' data-valfunction='dateValid'>        </li>
+             <li class="ui-field-contain"><label for="edate" style="font-size:14px;">Ending date</label><input type="text" name="edate" id="edate" data-role="datebox" data-options='{"mode":"calbox","overrideDateFormat":"%d.%m.%Y","useLang":null,"defaultValue":"*today_date*","beforeToday":true,"useFocus":true}' data-mini='true' value='*today_date*' min="*min_date*" data-valgroup='dFilterForms' data-valfunction='dateValid'></li>
+           <li class="ui-field-contain"><input type='submit' value='Display' data-icon='search' data-theme="c" data-iconpos='right' data-mini="true" onclick='return validateGroup("cashierTransactions");' /></li>
+            </ul>
+         </form>
+         <div class="tw-ul-overview" style="margin-top:20px;">
+            <div><input id="searchTransactions" data-mini="true" data-type="search" /></div>
+            <ul class='ul-simple transactional-list' data-role='listview' data-filter="true" data-input="#searchTransactions" data-theme='a' data-count-theme='a' data-inset='false' style="margin-top:12px;">
+               <li data-role='list-divider' class='tw-ui-li-divider ui-li-divider ui-bar-b '>
+                  <div class='ui-grid-c tw-fsize10'>
+                     <div class='ui-block-a tw-inline'>Utilisateur</div>
+                     <div class='ui-block-b tw-inline tw-text-center'>Date</div>
+                     <div class='ui-block-c tw-inline tw-text-rintent10'>Amount</div>
+                     <div class='ui-block-d tw-inline tw-text-rintent10'>Balance</div>
+                  </div>
+               </li>
+
+               *list-transactions*
+
+                
+                              <li><input type="button" data-theme="e" value="Top" data-icon="arrow-u" data-iconpos="right" data-mini="true" onclick='TwNavigation.PageTop();' /></li>
+            </ul>
+         </div>
+      </div>
+      <div id='twInfoContentView' class='fieldHide'></div>
+      <div id='masterDetailsBox' class='fieldHide'></div>
+   </div>
+</div>

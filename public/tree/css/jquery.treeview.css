@@ -1,0 +1,110 @@
+	.treeview,.treeview *{
+		user-select: none;
+		margin:0px;padding: 0px;box-sizing: border-box;
+	}
+
+
+
+	.treeview p{
+		margin: 0px;
+		font-size: 14px;
+	}
+
+	.treeview p:not(:first-child){
+
+		padding-left: 18px;
+	}
+	
+
+	.treeview .item{
+		cursor:pointer;
+		display: inline-block;
+		padding: 4px;
+		width: calc(100% - 30px);
+		border: 1px solid #c5c5c5;
+    	border-radius: 3px;
+	}
+
+	.treeview .solde{
+		color: #000000c7;
+	    float: right;
+	    font-weight: bold;
+	    font-family: sans-serif;
+	    letter-spacing: -1px;
+	    font-size: 14px;
+    }
+
+	.treeview .color-grey{
+
+		color : grey;
+
+	}
+	.treeview .color-red{
+
+		color : darkred;
+
+	}
+
+	.treeview .color-agent {
+
+		color : #f7ce07;
+		font-size: 20px;
+	}
+
+	.treeview .color-shop {
+
+		color : #ef6616;
+		font-size: 18px;
+	}
+
+	.treeview .color-player {
+
+		color : #8a8880;
+		font-size: 16px;
+	}
+
+
+	.treeview .color-green{
+
+		color : lightseagreen;
+
+	}
+	.treeview .item:hover{
+		background: #DDD;
+	}
+
+	.treeview .group [fold-button]{
+		display: inline-block;
+		padding: 10px;
+		width: 30px;
+		text-align: center;
+		border-radius: 3px;
+		cursor: pointer;
+	}
+	.treeview .group [fold-button]:hover{
+		background: #AAA;
+	}
+
+	.treeview .item i {
+		margin-right: 10px;
+	}
+	
+
+
+	.treeview .item[role-value="admin"],span[role-value="admin"]{
+		color: black !important;
+		font-size: 16px;
+		font-weight: bold;
+	}
+
+	.treeview .item[role-value="agent"],span[role-value="agent"]{
+
+		color: #950700 !important;
+		font-weight: bold;
+	}
+
+	.treeview .item[role-value="shop"],span[role-value="shop"]{
+		color: #01648a !important;
+		font-weight: bold;
+	}
+

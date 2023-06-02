@@ -1,0 +1,37 @@
+<div data-role='page' id='info-message' data-url='info-message_aspx' data-lang='fr'>
+    <div data-tap-toggle='false' data-role='header' data-theme='b' class='tw-header' data-add-back-btn='true' data-back-btn-text='.'>
+        <h1 class='tw-header-title'>Info</h1>
+    </div>
+    <div data-role='content'>
+        <ul data-role='listview' data-inset='false' style='margin-bottom:17px;margin-top:-1.1em;'>
+            <li class='ui-li-admin-account'>
+                <div class='ui-grid-a'>
+                    <div class='ui-block-a tw-inline tw-bold' style="line-height:18px; padding-left:8px; padding-top:4px;">*username* : <span id="adminBalance">*funds*</span></div>
+                    <div class='ui-block-b'>
+                        <a href='#till' class='ui-btn ui-btn-c ui-btn-inline ui-icon-home ui-btn-icon-notext tw-btn-rounded'>I</a>
+                        <form method="post" class="nested-form" id="reloadForm" action="admin/account/balance">
+                            <input type="hidden" name="routeAction" value="account/balance" />
+                            <input type="submit" data-icon="refresh" data-theme="c" data-inline="true" data-iconpos="notext" class="tw-btn-rounded" />
+                        </form>
+                    </div>
+                </div>
+            </li>
+        </ul>
+        <div id='twMainContentView'>
+            <ul data-role='listview' data-inset='true'>
+                <li data-role='list-divider' data-theme='b' style='text-indent:1em;'>Info</li>
+                <li>
+                    <div class='tw-info tw-msg-check-circle2'></div>
+                    <div class='tw-popup-box'>Un nouveau compte shop a été créé avec succès</div>
+                </li>
+                <li>
+                    <div class="ui-grid-solo">
+                        <div class="ui-block-a"><a style='text-align:center;' data-role='button' href='#till/tmenu' data-iconpos='right' data-mini='true' data-theme="e" data-icon='home'>OK</a></div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div id='twInfoContentView' class='fieldHide'></div>
+        <div id='masterDetailsBox' class='fieldHide'></div>
+    </div>
+</div>

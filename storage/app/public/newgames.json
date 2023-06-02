@@ -1,0 +1,2379 @@
+[
+        {
+          "name": "Charming Gold Hold n Link",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=1bd2b2c0c61617785167729b02814746fce35966.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "1bd2b2c0c61617785167729b02814746fce35966"
+        },
+        {
+          "name": "Eagle Gold",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=6cace44770b7e8dbf4451ba38ac41aed40084054.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "6cace44770b7e8dbf4451ba38ac41aed40084054"
+        },
+        {
+          "name": "Wild Buffalo Hold n Link",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=a41604e75d22e3b5e464a02a855cd3c50a859cc2.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "a41604e75d22e3b5e464a02a855cd3c50a859cc2"
+        },
+        {
+          "name": "Royal Fruits 5: Hold 'n' Link",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=bafa5a9b796d27d66b3a841747acaf5bfe847646.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "bafa5a9b796d27d66b3a841747acaf5bfe847646"
+        },
+        {
+          "name": "Just Gems: Hold ‘n’ Link",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=5abb0194aa14c38463da95d729e01caebcc26fe4.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "5abb0194aa14c38463da95d729e01caebcc26fe4"
+        },
+        {
+          "name": "African King: Hold 'n' Link",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=18221471b95a3e88beaa8ec36955cfcd26d724ca.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "18221471b95a3e88beaa8ec36955cfcd26d724ca"
+        },
+        {
+          "name": "Luxor Relics",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=b463e13d589cba48da28e4d013be6886e9531ae7.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "b463e13d589cba48da28e4d013be6886e9531ae7"
+        },
+        {
+          "name": "Hot Cash: Hold ‘n’ Link",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=60d5ba7d10cfab27dc2215eaae5caaca7a0d3f18.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "60d5ba7d10cfab27dc2215eaae5caaca7a0d3f18"
+        },
+        {
+          "name": "Fishing Kingdom",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=981475d68eb79375c98b2d4cb9ae0d0f46222e44.png",
+          "type": "fishing",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "981475d68eb79375c98b2d4cb9ae0d0f46222e44"
+        },
+        {
+          "name": "Squid Slot",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=e4a34056a26ca89c24479a406e0bf47b9c784c0e.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "e4a34056a26ca89c24479a406e0bf47b9c784c0e"
+        },
+        {
+          "name": "Dolphin Queen",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=97b919554e9ab3349b4d78a22d53ad2237a98267.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "97b919554e9ab3349b4d78a22d53ad2237a98267"
+        },
+        {
+          "name": "The Big Game Hold ‘n’ Link",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=16d0e09a14e2bc3efa728d81570c50da2a37387c.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "16d0e09a14e2bc3efa728d81570c50da2a37387c"
+        },
+        {
+          "name": "Mystery Dragons",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=731ab57db9e0cb2ce59b1f49b2066f21006e1570.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "731ab57db9e0cb2ce59b1f49b2066f21006e1570"
+        },
+        {
+          "name": "B.U.C.K.S.",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=41b255607611770eae989a0b30c44d3b6a315272.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "41b255607611770eae989a0b30c44d3b6a315272"
+        },
+        {
+          "name": "Inferno Fruits",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=5ed34b3b710e0b0ee05d67f5140d8feacf071054.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "5ed34b3b710e0b0ee05d67f5140d8feacf071054"
+        },
+        {
+          "name": "Zen Zen Cash",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=c6b3aa53460444d77df3dd476b61b9588e62c436.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "c6b3aa53460444d77df3dd476b61b9588e62c436"
+        },
+        {
+          "name": "Lotus Fortune",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=142110b5f50c684426ca89cb43b9b48576acd832.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "142110b5f50c684426ca89cb43b9b48576acd832"
+        },
+        {
+          "name": "Dancing Lanterns",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=414715a43c4c3c9e76a89bc188bf51afceb8a330.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "414715a43c4c3c9e76a89bc188bf51afceb8a330"
+        },
+        {
+          "name": "Book of Nile: Hold'n'Link",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=6eed18c4508978f67122958a62d05e4136573d02.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "6eed18c4508978f67122958a62d05e4136573d02"
+        },
+        {
+          "name": "Book of Nile: Magic Choice",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=e8926df6aecd37ce60f4f078545baf29dac52cb8.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "e8926df6aecd37ce60f4f078545baf29dac52cb8"
+        },
+        {
+          "name": "Book of Nile: Lost Chapter",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=2ff89ef34fdd2f82014fe58c01f3ee8ad4a2649d.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "2ff89ef34fdd2f82014fe58c01f3ee8ad4a2649d"
+        },
+        {
+          "name": "Fruit Cash Hold n’ Link",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=4788c2b42784ef400250ce5af4760b324a7ca9c5.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "4788c2b42784ef400250ce5af4760b324a7ca9c5"
+        },
+        {
+          "name": "Quick Cash Fruits",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=2a781b40d3737b571acd35c2a044339c487e8cc8.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "2a781b40d3737b571acd35c2a044339c487e8cc8"
+        },
+        {
+          "name": "Jackpot Sevens",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=6666097e45f51afff0656a0e3483094efac9c07c.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "6666097e45f51afff0656a0e3483094efac9c07c"
+        },
+        {
+          "name": "Book of Nile",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=6ad32a3e34523ed96fe5c1738221a978e7434043.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "6ad32a3e34523ed96fe5c1738221a978e7434043"
+        },
+        {
+          "name": "MMA Legends",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=f1520ac41361142738e53f60828be9c96873a3c3.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "f1520ac41361142738e53f60828be9c96873a3c3"
+        },
+        {
+          "name": "Fruit Burst",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=12bcb219edf9f3e15cd3a5e41363ebe5b3a832c0.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "12bcb219edf9f3e15cd3a5e41363ebe5b3a832c0"
+        },
+        {
+          "name": "Fortune Cash",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=9fa64057284c41d88b2f3701288fbd4a5915a416.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "9fa64057284c41d88b2f3701288fbd4a5915a416"
+        },
+        {
+          "name": "African King",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=5c3d4c6c472d0cdbde4acea41aa437a972695893.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "5c3d4c6c472d0cdbde4acea41aa437a972695893"
+        },
+        {
+          "name": "Bananas10",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=c05fb2eda155a292a9f2d5f3d9cfca1fda5304c0.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "c05fb2eda155a292a9f2d5f3d9cfca1fda5304c0"
+        },
+        {
+          "name": "Cleo's Heart",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=5078a91c41fd427b08fb5ad69cb5831310304c5e.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "5078a91c41fd427b08fb5ad69cb5831310304c5e"
+        },
+        {
+          "name": "Cloverstones",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=ec027736c17d9d8236afa857d8f81f146d2e9cd8.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "ec027736c17d9d8236afa857d8f81f146d2e9cd8"
+        },
+        {
+          "name": "Crazy Scientist 2 JS",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=8835d9852dd9692c119331c17974607156d05309.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "8835d9852dd9692c119331c17974607156d05309"
+        },
+        {
+          "name": "Diamond Shoot",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=0e87edd4ce8c4f04017ced12a9df420519c6ecaa.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "0e87edd4ce8c4f04017ced12a9df420519c6ecaa"
+        },
+        {
+          "name": "Disco Fruit",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=6fdbeb767486143c37647e9c8705fe9153742f75.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "6fdbeb767486143c37647e9c8705fe9153742f75"
+        },
+        {
+          "name": "Dragon Sevens",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=f30068220d0bfc96029cced879d84ce22efa5470.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "f30068220d0bfc96029cced879d84ce22efa5470"
+        },
+        {
+          "name": "Frosty Fruits",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=788344b160d9257814b04e1b2f83ebf1893239d9.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "788344b160d9257814b04e1b2f83ebf1893239d9"
+        },
+        {
+          "name": "Golden fruit",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=172b5b09dbf744557c47a5894364b626981cb56e.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "172b5b09dbf744557c47a5894364b626981cb56e"
+        },
+        {
+          "name": "Golden Skulls",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=e4076c0fccf307c64a7c12f71fae62a9e07aaef6.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "e4076c0fccf307c64a7c12f71fae62a9e07aaef6"
+        },
+        {
+          "name": "Hit in Vegas",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=bbbee6f0b10225e2043ebf7df850a6a61ee56b04.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "bbbee6f0b10225e2043ebf7df850a6a61ee56b04"
+        },
+        {
+          "name": "Jungle 2",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=1631059ca5352e2a01bd133869f4bdfdda6e01e0.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "1631059ca5352e2a01bd133869f4bdfdda6e01e0"
+        },
+        {
+          "name": "Magic Tree",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=01b2e6fe5b34d631c889e44e293da244fb6a0a20.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "01b2e6fe5b34d631c889e44e293da244fb6a0a20"
+        },
+        {
+          "name": "Red Hot Chili 7’s",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=cc240513c5f9999fea5745153c937dfaca2ffe3f.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "cc240513c5f9999fea5745153c937dfaca2ffe3f"
+        },
+        {
+          "name": "Royal Fruits 20",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=1cb519389d11978924c6d25673ef1fdc68c5ea4c.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "1cb519389d11978924c6d25673ef1fdc68c5ea4c"
+        },
+        {
+          "name": "Royal Fruits 40",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=bb07ea1636df6e6b10fe09037396cbc4c988c40e.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "bb07ea1636df6e6b10fe09037396cbc4c988c40e"
+        },
+        {
+          "name": "Shining Princess",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=c4388350e9a48a614dd6a029274e246a75e0bd18.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "c4388350e9a48a614dd6a029274e246a75e0bd18"
+        },
+        {
+          "name": "Space Rocks 2",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=2aa2dfcf57a608f962cc06fef483c60bdbe454b1.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "2aa2dfcf57a608f962cc06fef483c60bdbe454b1"
+        },
+        {
+          "name": "Thunder Strike",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=1ac9297e13f7714c8343279c44acef3e5c27b2f4.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "1ac9297e13f7714c8343279c44acef3e5c27b2f4"
+        },
+        {
+          "name": "Volcano Fruits",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=c7cdce4e438b266e9d23b5b3ced2d1473c0878e0.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "c7cdce4e438b266e9d23b5b3ced2d1473c0878e0"
+        },
+        {
+          "name": "Wild Buffalo",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=d2e61b7d6fe114509ab92051a678736819b27328.png",
+          "type": "slots",
+          "provider": "NetGame",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "d2e61b7d6fe114509ab92051a678736819b27328"
+        },
+        {
+          "name": "Mega Crown",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=03f2f6de37b515ec4678a3e355c0248fdba47549.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "03f2f6de37b515ec4678a3e355c0248fdba47549"
+        },
+        {
+          "name": "Rainbow Lands",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=abcba68fd985234daf4bfeb4d51ae211788d5008.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "abcba68fd985234daf4bfeb4d51ae211788d5008"
+        },
+        {
+          "name": "Amigo Lucky Fruits",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=c984eff61e446aac5d1da0289ef9a9eb698f12ce.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "c984eff61e446aac5d1da0289ef9a9eb698f12ce"
+        },
+        {
+          "name": "MiamiX",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=1b90c2b3fbe38ea7334aaaf69f3381b017fd66b2.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "1b90c2b3fbe38ea7334aaaf69f3381b017fd66b2"
+        },
+        {
+          "name": "Wild Coyote",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=04017f2eaefeca50a7fcceb03a303f7f3a6db284.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "04017f2eaefeca50a7fcceb03a303f7f3a6db284"
+        },
+        {
+          "name": "Amigo Double Classic",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=a65b776d52621b74107713fba334fe43e250be23.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "a65b776d52621b74107713fba334fe43e250be23"
+        },
+        {
+          "name": "Amigo Silver Classic",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=b7d13b3edb1b4f4ebf4f97b26037b691.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "b7d13b3edb1b4f4ebf4f97b26037b691"
+        },
+        {
+          "name": "Amigo Bronze Classic",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=7eb4a2631d604775802b2d9ddb488426.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "7eb4a2631d604775802b2d9ddb488426"
+        },
+        {
+          "name": "Amigo Hot 100",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=54ee2072641d430cb85c097f6f504cb1.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "54ee2072641d430cb85c097f6f504cb1"
+        },
+        {
+          "name": "Amigo Hot 40",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=e9b479600bc64dcbbcacc4e15b14499c.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "e9b479600bc64dcbbcacc4e15b14499c"
+        },
+        {
+          "name": "Amigo Hot 20",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=089bb42a0c80464a812c052e981f89de.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "089bb42a0c80464a812c052e981f89de"
+        },
+        {
+          "name": "Amigo Fruits 5",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=575ae2ef449e41b6bfc8c93d5112ce14.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "575ae2ef449e41b6bfc8c93d5112ce14"
+        },
+        {
+          "name": "Regal Fruits 100",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=c9435ac7c1524efc81d1537693dc7d8b.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "c9435ac7c1524efc81d1537693dc7d8b"
+        },
+        {
+          "name": "Regal Fruits 40",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=75bc73e4f3c34b15afef941187238bf4.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "75bc73e4f3c34b15afef941187238bf4"
+        },
+        {
+          "name": "Regal Fruits 20",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=f47c53ee8b214371a94c76fab4b987a6.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "f47c53ee8b214371a94c76fab4b987a6"
+        },
+        {
+          "name": "Regal Fruits 5",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=85fa970bb59342a3985d2600c3c6f686.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "85fa970bb59342a3985d2600c3c6f686"
+        },
+        {
+          "name": "Blazing Crown",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=ad600977a09d4158a8958a9c8f68d28f.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "ad600977a09d4158a8958a9c8f68d28f"
+        },
+        {
+          "name": "Book of Zeus",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=88e7c7ddbe754eb8a487d381429cd46d.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "88e7c7ddbe754eb8a487d381429cd46d"
+        },
+        {
+          "name": "Barbarian Stash",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=a5b9cf7ee0694101a7b115fb871e87a8.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "a5b9cf7ee0694101a7b115fb871e87a8"
+        },
+        {
+          "name": "Amigo Gold Classic",
+          "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=68f7fcbad73ca2a317c13f5d66f29f0690654abd.png",
+          "type": "slots",
+          "provider": "AmigoGaming",
+          "is_mobile": 1,
+          "technology": "HTML5",
+          "uuid": "68f7fcbad73ca2a317c13f5d66f29f0690654abd"
+        },
+        {
+            "name": "Farm madness",
+            "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=24867404e436b2d20d6f2cf58e27dd6b599eb7af.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "24867404e436b2d20d6f2cf58e27dd6b599eb7af"
+        },
+        {
+            "name": "Bubbles and Pearls",
+            "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=12222bd8ff3792559ae5063771a0b69e0c03d84b.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "12222bd8ff3792559ae5063771a0b69e0c03d84b"
+        },
+        {
+            "name": "The Explorer's Quest",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/c4bec5d512cf4b2482f8a315f2498a46.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "c4bec5d512cf4b2482f8a315f2498a46"
+        },
+        {
+            "name": "The Lost Temple",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/84db9820e74d47839fd9e5399b8c1b0a.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "84db9820e74d47839fd9e5399b8c1b0a"
+        },
+        {
+            "name": "Trojan Horse Tiny Heroes",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/245f36e11e1c445bb34bdc71ddab2dea.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "245f36e11e1c445bb34bdc71ddab2dea"
+        },
+        {
+            "name": "Wild Charger",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/a4d9e8229a7a49debb737e16e7e90ecc.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "a4d9e8229a7a49debb737e16e7e90ecc"
+        },
+        {
+            "name": "Fairy's Golden Path",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/ec6028c208a64dc1acaf57b4e5410d01.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "ec6028c208a64dc1acaf57b4e5410d01"
+        },
+        {
+            "name": "Haunted Walker",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/fc88387d5ed84104a4b2746291b4c0a7.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "fc88387d5ed84104a4b2746291b4c0a7"
+        },
+        {
+            "name": "Mad cubes 50",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/cde530005f684370a34d77696f1e2e77.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "cde530005f684370a34d77696f1e2e77"
+        },
+        {
+            "name": "Super Hot BBQ 50",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/921620af212d41028a15907309b34774.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "921620af212d41028a15907309b34774"
+        },
+        {
+            "name": "Wilds and Pirates",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/8fde19b90b074442b72be14f3cf31e01.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "8fde19b90b074442b72be14f3cf31e01"
+        },
+        {
+            "name": "40 Flaming Lines",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/cac486de05454850ae2cff0e9ade5beb.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "cac486de05454850ae2cff0e9ade5beb"
+        },
+        {
+            "name": "Abby and the Witch",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/ab73586754864d6fbe4adba73cfd4a9d.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "ab73586754864d6fbe4adba73cfd4a9d"
+        },
+        {
+            "name": "Amuns Book HD",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/7e7c6058aaf548cca99b70e629efba0b.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "7e7c6058aaf548cca99b70e629efba0b"
+        },
+        {
+            "name": "Arabian Dream",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/424c554645e3426da5534e5f5f863036.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "424c554645e3426da5534e5f5f863036"
+        },
+        {
+            "name": "Butterfly Hot 10",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/d559e2d9d8ed437880bde3eef9a0c680.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "d559e2d9d8ed437880bde3eef9a0c680"
+        },
+        {
+            "name": "Captain Nelson Deluxe",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/deace492f7e145babe43fcea09bc6fca.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "deace492f7e145babe43fcea09bc6fca"
+        },
+        {
+            "name": "Dice Tronic",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/c005d667d00d4a809f2a58e04d87a285.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "c005d667d00d4a809f2a58e04d87a285"
+        },
+        {
+            "name": "Dice Tronic X",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/c62ba603ce684cd8b6cd955ebd99af1e.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "c62ba603ce684cd8b6cd955ebd99af1e"
+        },
+        {
+            "name": "Dice Tronic XL",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/030dcee26df445598b824bd977a09e07.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "030dcee26df445598b824bd977a09e07"
+        },
+        {
+            "name": "Disco Fever",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/c39e0e93842b45b2b28ceab786ac1045.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "c39e0e93842b45b2b28ceab786ac1045"
+        },
+        {
+            "name": "Fire 20 Deluxe",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/2616994c830744f8ae46aa5eddb9dc4a.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "2616994c830744f8ae46aa5eddb9dc4a"
+        },
+        {
+            "name": "Golden Dice 3",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/b70baab169654a679ed97a330b7d09e1.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "b70baab169654a679ed97a330b7d09e1"
+        },
+        {
+            "name": "Hot 27 Lines",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/db1c8691acd34deab264198a396c00f0.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "db1c8691acd34deab264198a396c00f0"
+        },
+        {
+            "name": "Hot 5 Deluxe",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/fb880afb41884a0dadc2767f45c70d9a.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "fb880afb41884a0dadc2767f45c70d9a"
+        },
+        {
+            "name": "Infinium",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/08d8e5ee21034ec38b3a005c6e769f55.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "08d8e5ee21034ec38b3a005c6e769f55"
+        },
+        {
+            "name": "Lady of the Forest",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/1a78b10bda574eae89a545f657d3794a.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "1a78b10bda574eae89a545f657d3794a"
+        },
+        {
+            "name": "Le Mystere Du Prince",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/eb32f7fdcb0b4efaaece8b4cb9637157.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "eb32f7fdcb0b4efaaece8b4cb9637157"
+        },
+        {
+            "name": "Mad Cubes 25",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/d66b71cf8d05451bbc2ecbdcc4a2c8df.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "d66b71cf8d05451bbc2ecbdcc4a2c8df"
+        },
+        {
+            "name": "Magic Charm",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/7f6caa14e3744a4b9f1ffaf5d23a990b.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "7f6caa14e3744a4b9f1ffaf5d23a990b"
+        },
+        {
+            "name": "Page of Fortune Deluxe",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/8d712e951bee4b71b205c391bb38f8d8.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "8d712e951bee4b71b205c391bb38f8d8"
+        },
+        {
+            "name": "Royal Jewels",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/4d02391fec5b43caac226ffdba08499b.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "4d02391fec5b43caac226ffdba08499b"
+        },
+        {
+            "name": "Snake Eyes",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/fa284dc594054bc9a5ade4f5874e17fe.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "fa284dc594054bc9a5ade4f5874e17fe"
+        },
+        {
+            "name": "Star Frenzy",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/2e2b2c0422194851bc1ffc85b3dcd469.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "2e2b2c0422194851bc1ffc85b3dcd469"
+        },
+        {
+            "name": "Super Hot BBQ",
+            "image": "https://gis.slotegrator.com/api/images/games/ZeusPlay/5ce26501c481448da623f357c1c3455f.png",
+            "type": "slots",
+            "provider": "ZeusPlay",
+            "is_mobile": 0,
+            "technology": "HTML5",
+            "uuid": "5ce26501c481448da623f357c1c3455f"
+        },
+          {
+              "name": "Gold Cai-Shen Fishing 2",
+              "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=f32f0acaddc359ce54b81489179b394ea90fe0a1.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "f32f0acaddc359ce54b81489179b394ea90fe0a1"
+          },
+          {
+              "name": "Diamond Eternity",
+              "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=a79a3f12e499eabed2e1d58e3a609ff6d33a4dc4.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "a79a3f12e499eabed2e1d58e3a609ff6d33a4dc4"
+          },
+          {
+              "name": "Golden Stone Age",
+              "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=fc5d071b3be6ca099f0ed80f607b3981b654c53d.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "fc5d071b3be6ca099f0ed80f607b3981b654c53d"
+          },
+          {
+              "name": "Fortune Tiger",
+              "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=765aa04f79d23369a18dc4b5bf4554184267309f.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "765aa04f79d23369a18dc4b5bf4554184267309f"
+          },
+          {
+              "name": "Golden Dragon Mighty Cash",
+              "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=03e8c56d03cf6e2746ea9e3800d763494c568f28.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "03e8c56d03cf6e2746ea9e3800d763494c568f28"
+          },
+          {
+              "name": "F1 Racing",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/f4f6bd77ec17424a84957095fec5c138.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "f4f6bd77ec17424a84957095fec5c138"
+          },
+          {
+              "name": "Baby Pet",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/59d6b6303cb745fa91d95e8d57d3c461.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "59d6b6303cb745fa91d95e8d57d3c461"
+          },
+          {
+              "name": "Gemstone Legend",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/7f93dccc2e684ab6bf1f60d92de3ecd4.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "7f93dccc2e684ab6bf1f60d92de3ecd4"
+          },
+          {
+              "name": "Chinese Zodiac",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/86c99590ce4042ed8c3a99b6933b55b9.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "86c99590ce4042ed8c3a99b6933b55b9"
+          },
+          {
+              "name": "Greek Mythology",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/c77464e9cbf740fda83df86621bbafd8.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "c77464e9cbf740fda83df86621bbafd8"
+          },
+          {
+              "name": "Poker King",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/921cfc7b58b243b5a4349ce6062558da.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "921cfc7b58b243b5a4349ce6062558da"
+          },
+          {
+              "name": "Candy Cart",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/fa936b839a104c67a61730ea16b19573.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "fa936b839a104c67a61730ea16b19573"
+          },
+          {
+              "name": "Rome Warrior",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/0ff49ac4aee545f298c2215f91d274df.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "0ff49ac4aee545f298c2215f91d274df"
+          },
+          {
+              "name": "Selfie",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/a6ae4aff658449e9966b64b2553ec097.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "a6ae4aff658449e9966b64b2553ec097"
+          },
+          {
+              "name": "Journey to The West",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/88211f06bf994c65a63440ab2de22afb.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "88211f06bf994c65a63440ab2de22afb"
+          },
+          {
+              "name": "Dessert",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/5c3b075e467f4107a63eb6dd8d856106.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "5c3b075e467f4107a63eb6dd8d856106"
+          },
+          {
+              "name": "Zombie",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/0c38492f89af4feea351e5d66f329326.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "0c38492f89af4feea351e5d66f329326"
+          },
+          {
+              "name": "Face",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/ab5c7f5cc6294a9ebd08985472d11b37.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "ab5c7f5cc6294a9ebd08985472d11b37"
+          },
+          {
+              "name": "Soccer",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/7d0cfa86e2d747f8bb4cf4fe4c384e80.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "7d0cfa86e2d747f8bb4cf4fe4c384e80"
+          },
+          {
+              "name": "Dinosaur Island",
+              "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=496f119595d1cf050790b51b435496951f296f9a.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "496f119595d1cf050790b51b435496951f296f9a"
+          },
+          {
+              "name": "Golden Ox",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/694044b532ed4cd68dfa6cfa46f11a55.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "694044b532ed4cd68dfa6cfa46f11a55"
+          },
+          {
+              "name": "Mayan Treasure",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/9751713d2f7f435db706ff72a935bd78.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "9751713d2f7f435db706ff72a935bd78"
+          },
+          {
+              "name": "Journey To The West 2",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/2f88863a620747c1a01242f6b801a550.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "2f88863a620747c1a01242f6b801a550"
+          },
+          {
+              "name": "Hawaii Tiki",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/8f8359f8bc8b470fb19998da79bcf836.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "8f8359f8bc8b470fb19998da79bcf836"
+          },
+          {
+              "name": "Win The World",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/9c2fe59868d0457d917daa9db7e27d59.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "9c2fe59868d0457d917daa9db7e27d59"
+          },
+          {
+              "name": "Ruyi's Royal Love in the Palace",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/57d1a78358824738be71d541b0bacc21.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "57d1a78358824738be71d541b0bacc21"
+          },
+          {
+              "name": "The Advisors Alliance ",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/cd7fc4baa9c046a1972f93e97fadbbdf.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "cd7fc4baa9c046a1972f93e97fadbbdf"
+          },
+          {
+              "name": "Halloween",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/033ac9fe22f246a2b02dc39e2799b6b5.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "033ac9fe22f246a2b02dc39e2799b6b5"
+          },
+          {
+              "name": "Japanese Fortune",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/4f9c8a7e28ad401698e4c5b7e7470e96.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "4f9c8a7e28ad401698e4c5b7e7470e96"
+          },
+          {
+              "name": "The Monster Killer 2",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/b9734e640a134dc4a37a044a1c2bedd9.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "b9734e640a134dc4a37a044a1c2bedd9"
+          },
+          {
+              "name": "Eternal Love",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/a404c55d01b94c4488b2013f0860293a.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "a404c55d01b94c4488b2013f0860293a"
+          },
+          {
+              "name": "Kawaii Pets",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/4aa96c2d71db4c6d8a07d47ed5abd5f5.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "4aa96c2d71db4c6d8a07d47ed5abd5f5"
+          },
+          {
+              "name": "Lucky Boy",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/973ff45f16564095a359c780c0e44827.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "973ff45f16564095a359c780c0e44827"
+          },
+          {
+              "name": "Korean BBQ",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/9aa254bb7ed44a8f8db9f21a7f7f4d47.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "9aa254bb7ed44a8f8db9f21a7f7f4d47"
+          },
+          {
+              "name": "Shaolin",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/e336475c75b3410b9df5fe415f3fcef1.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "e336475c75b3410b9df5fe415f3fcef1"
+          },
+          {
+              "name": "Three Kingdoms",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/af9947809b924fa8b3d5e5d3271aaf2a.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "af9947809b924fa8b3d5e5d3271aaf2a"
+          },
+          {
+              "name": "Golf Club",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/87f1252ec13b4a9db27c327f1a552a02.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "87f1252ec13b4a9db27c327f1a552a02"
+          },
+          {
+              "name": "Pokamon",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/2de42156c44049728e23f5b950ada08d.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "2de42156c44049728e23f5b950ada08d"
+          },
+          {
+              "name": "The White Snake",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/30cccdb24cf54bed9f329434fc517a1a.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "30cccdb24cf54bed9f329434fc517a1a"
+          },
+          {
+              "name": "Bikini Beach",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/8f53614106ab462c8c1352cfa4c50287.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "8f53614106ab462c8c1352cfa4c50287"
+          },
+          {
+              "name": "Ancient Egypt",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/b80e3fa059fb4d588fa71294fa55e956.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "b80e3fa059fb4d588fa71294fa55e956"
+          },
+          {
+              "name": "Special Forces",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/7a102c9ce994497a950d5164b077dff0.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "7a102c9ce994497a950d5164b077dff0"
+          },
+          {
+              "name": "Tricky Brains",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/623ac92d894c4c41ae37b1b446220a7d.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "623ac92d894c4c41ae37b1b446220a7d"
+          },
+          {
+              "name": "HighWay Kings Deluxe",
+              "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=e1cc05e57e28ef4604af5830445e374f7804b30b.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "e1cc05e57e28ef4604af5830445e374f7804b30b"
+          },
+          {
+              "name": "Full Moon Festival",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/1022b72d65e444a7ad4ac813566680fb.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "1022b72d65e444a7ad4ac813566680fb"
+          },
+          {
+              "name": "Pac-man",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/c5a6a6dbaa5e459798299e49a4bcd917.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "c5a6a6dbaa5e459798299e49a4bcd917"
+          },
+          {
+              "name": "Journey Frog",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/2ca465b374be4f7689c2e13f36a8b238.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "2ca465b374be4f7689c2e13f36a8b238"
+          },
+          {
+              "name": "God of Fortune",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/48703a40df7c4b31994ec1c4a8a3b94d.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "48703a40df7c4b31994ec1c4a8a3b94d"
+          },
+          {
+              "name": "Fortune Cat",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/1b5b7f2a182944acbbf7b57114000971.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "1b5b7f2a182944acbbf7b57114000971"
+          },
+          {
+              "name": "Soccer All Star",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/a636f08694584756864c01a420fc8802.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "a636f08694584756864c01a420fc8802"
+          },
+          {
+              "name": "Gentlemen",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/987c6ed4c4324ada87d2240c7ec24e76.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "987c6ed4c4324ada87d2240c7ec24e76"
+          },
+          {
+              "name": "Only side by side with you",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/1ba85d61041b4f979faa161b22a2b670.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "1ba85d61041b4f979faa161b22a2b670"
+          },
+          {
+              "name": "Dessert Mario",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/0d18e48e24444234824b2614d818c02b.png",
+              "type": "casual",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "0d18e48e24444234824b2614d818c02b"
+          },
+          {
+              "name": "Xi You Mario",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/deeb7b3da6804ab9aacfaa9eaffbeac6.png",
+              "type": "casual",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "deeb7b3da6804ab9aacfaa9eaffbeac6"
+          },
+          {
+              "name": "DJ Mario",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/e18d74dd1eb6490a9fe2b94fb19ecfd4.png",
+              "type": "casual",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "e18d74dd1eb6490a9fe2b94fb19ecfd4"
+          },
+          {
+              "name": "Keno Neon",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/bc9a7f86212d4b59967390e1cc2377c1.png",
+              "type": "keno",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "bc9a7f86212d4b59967390e1cc2377c1"
+          },
+          {
+              "name": "Dragon/Tiger",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/543ecfcb13d14129abcad94bef505226.png",
+              "type": "table",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "543ecfcb13d14129abcad94bef505226"
+          },
+          {
+              "name": "Sic-Bo",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/556fea6c221c4e36b7d2f65eb29f4dbd.png",
+              "type": "table",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "556fea6c221c4e36b7d2f65eb29f4dbd"
+          },
+          {
+              "name": "San Gong",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/bccecb01fc5b4e75ac9701dda7ce1a98.png",
+              "type": "table",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "bccecb01fc5b4e75ac9701dda7ce1a98"
+          },
+          {
+              "name": "Super 6 Baccarat",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/b1e4fc6796bc4ac4a4f02f218bf2fbd0.png",
+              "type": "table",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "b1e4fc6796bc4ac4a4f02f218bf2fbd0"
+          },
+          {
+              "name": "Super Baccarat",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/1285e959dbce4cfda8ab8bfc8a6f4d2d.png",
+              "type": "table",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "1285e959dbce4cfda8ab8bfc8a6f4d2d"
+          },
+          {
+              "name": "Fishing Legends 360",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/03a3ad2d6aee424c82b6678516e18933.png",
+              "type": "fishing",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "03a3ad2d6aee424c82b6678516e18933"
+          },
+          {
+              "name": "Go Gold Fishing 360",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/f821e834aee44e2fbadce34267026ca0.png",
+              "type": "fishing",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "f821e834aee44e2fbadce34267026ca0"
+          },
+          {
+              "name": "Fishing Fortune",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/e9be26695a4c488bbce6e6b4d03c9ff0.png",
+              "type": "fishing",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "e9be26695a4c488bbce6e6b4d03c9ff0"
+          },
+          {
+              "name": "Gold Cai Shen Fishing",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/c4d026f54a6e49e09e283bad809ee551.png",
+              "type": "fishing",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "c4d026f54a6e49e09e283bad809ee551"
+          },
+          {
+              "name": "Blooming Riches",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/33aa5e4df231446487f532faad89cad2.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "33aa5e4df231446487f532faad89cad2"
+          },
+          {
+              "name": "High Way Kings",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/df82e9eb90c24a5c983150afd3ad2f38.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "df82e9eb90c24a5c983150afd3ad2f38"
+          },
+          {
+              "name": "Gold Dragon Fishing 360",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/1bef67e12ae445ee9b06a9a57216b699.png",
+              "type": "fishing",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "1bef67e12ae445ee9b06a9a57216b699"
+          },
+          {
+              "name": "88 Fortunes",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/9db1b2ed4d0848e7817d5db28abfd4e3.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "9db1b2ed4d0848e7817d5db28abfd4e3"
+          },
+          {
+              "name": "8 Dragons",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/77c6a519899b467985f725eda6aa0f99.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "77c6a519899b467985f725eda6aa0f99"
+          },
+          {
+              "name": "Lucky Leprechaun",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/9379aa3d218945aebdbb84f2c2a57d9b.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "9379aa3d218945aebdbb84f2c2a57d9b"
+          },
+          {
+              "name": "Fun Monkey",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/2b43b85ff9774fb5b5aa5747e8e68694.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "2b43b85ff9774fb5b5aa5747e8e68694"
+          },
+          {
+              "name": "TPG 777",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/a779a2266759487d997de9a38923067a.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "a779a2266759487d997de9a38923067a"
+          },
+          {
+              "name": "Fortune Hot Pot",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/d66d3f16ee8e4805aa93db10630dd458.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "d66d3f16ee8e4805aa93db10630dd458"
+          },
+          {
+              "name": "Mischievous Pirates",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/02da39affda4404ca44d9ed4049c792c.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "02da39affda4404ca44d9ed4049c792c"
+          },
+          {
+              "name": "Great Ocean",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/444d0d97b9804ca9aec2b9bb72a50881.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "444d0d97b9804ca9aec2b9bb72a50881"
+          },
+          {
+              "name": "5 Dragons",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/9c795b11c33d45ff890bef7e398bdce5.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "9c795b11c33d45ff890bef7e398bdce5"
+          },
+          {
+              "name": "King of Seven",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/5567013f8c454da2aa238a763edc133e.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "5567013f8c454da2aa238a763edc133e"
+          },
+          {
+              "name": "King of Fruits",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/79428cc221f848c7af38e3efc357874b.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "79428cc221f848c7af38e3efc357874b"
+          },
+          {
+              "name": "Xian Xia",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/349982801d27495d87713749878343b8.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "349982801d27495d87713749878343b8"
+          },
+          {
+              "name": "Blessing Mouse",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/145bde1b3689457ba7b9f9b0a591f14f.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "145bde1b3689457ba7b9f9b0a591f14f"
+          },
+          {
+              "name": "Space Galaxy",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/30e983fe6d044ecb9cfb79b10515c134.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "30e983fe6d044ecb9cfb79b10515c134"
+          },
+          {
+              "name": "Five Blessings",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/92b657e6535e4fb5ac48dd7363889e8e.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "92b657e6535e4fb5ac48dd7363889e8e"
+          },
+          {
+              "name": "Mermaid Treasure",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/94922ddd5cc742d386e363178b5eb194.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "94922ddd5cc742d386e363178b5eb194"
+          },
+          {
+              "name": "DJ Rock",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/36690ef755b14438b041b01d907b8db0.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "36690ef755b14438b041b01d907b8db0"
+          },
+          {
+              "name": "Vampires Feast",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/ff703619d0a642009809c336d0bf7bb9.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "ff703619d0a642009809c336d0bf7bb9"
+          },
+          {
+              "name": "Ying Cai Shen",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/da61078aa535466bb90a450714779363.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "da61078aa535466bb90a450714779363"
+          },
+          {
+              "name": "Lost City of Gold",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/e8de9074c5c341ff8dc4d4c463706923.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "e8de9074c5c341ff8dc4d4c463706923"
+          },
+          {
+              "name": "Jin Ping Mei",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/a0c8c2877a8045ebb65d28745b07778e.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "a0c8c2877a8045ebb65d28745b07778e"
+          },
+          {
+              "name": "Lucky Gems",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/a8b4d68cfa30404d9473ac16081fbf53.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "a8b4d68cfa30404d9473ac16081fbf53"
+          },
+          {
+              "name": "Book of Dragons",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/14975f91999b440ea5dd9b898e388c3f.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "14975f91999b440ea5dd9b898e388c3f"
+          },
+          {
+              "name": "Goldy Piggy",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/a63b586ed0644cdfa49b74b9ae35283e.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "a63b586ed0644cdfa49b74b9ae35283e"
+          },
+          {
+              "name": "777 Slot",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/53d3f159d90046aabd7cd565e0757d2c.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "53d3f159d90046aabd7cd565e0757d2c"
+          },
+          {
+              "name": "Tarot Deck",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/935b69a1ff814bc8a0f187e0f339fd92.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "935b69a1ff814bc8a0f187e0f339fd92"
+          },
+          {
+              "name": "Fruity Fruit Farm",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/dcafdce1a1bc4de398ea896ebbd59134.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "dcafdce1a1bc4de398ea896ebbd59134"
+          },
+          {
+              "name": "Mahjong House",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/aca019f8ba2147fe947668cd27809ff0.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "aca019f8ba2147fe947668cd27809ff0"
+          },
+          {
+              "name": "Sea World",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/c5120066fc6d4de68255b06b97cb3056.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "c5120066fc6d4de68255b06b97cb3056"
+          },
+          {
+              "name": "Christmas Joy",
+              "image": "https://gis.slotegrator.com/api/images/games/TripleProfitsGames/dac2601ad3d749899de2cb910d99c243.png",
+              "type": "slots",
+              "provider": "tpg",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "dac2601ad3d749899de2cb910d99c243"
+          },
+          {
+              "name": "Wizardz World",
+              "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=f27b0fb807758afa4e88bfc9e3d3fefa104e360a.png",
+              "type": "slots",
+              "provider": "ElysiumStudios",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "f27b0fb807758afa4e88bfc9e3d3fefa104e360a"
+          },
+          {
+              "name": "Spirit Hunters",
+              "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=c06dd0c7a501d16a50e01774aa1509e654d20544.png",
+              "type": "slots",
+              "provider": "ElysiumStudios",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "c06dd0c7a501d16a50e01774aa1509e654d20544"
+          },
+          {
+              "name": "Dragon Roulette",
+              "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=4ebd1a259b2d595bd09d03721f69d06235b6560a.png",
+              "type": "table",
+              "provider": "ElysiumStudios",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "4ebd1a259b2d595bd09d03721f69d06235b6560a"
+          },
+          {
+              "name": "Fox Tale",
+              "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=a640a26896423247069dcecf73bc109e9d8a142d.png",
+              "type": "slots",
+              "provider": "ElysiumStudios",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "a640a26896423247069dcecf73bc109e9d8a142d"
+          },
+          {
+              "name": "Supa Crew!",
+              "image": "https://gis.slotegrator.com/api/index.php/image/get?hash=ca6adfa6a044ef2a2c744baa3d1d7001d7157a26.png",
+              "type": "slots",
+              "provider": "ElysiumStudios",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "ca6adfa6a044ef2a2c744baa3d1d7001d7157a26"
+          },
+          {
+              "name": "A Year of Zhu",
+              "image": "https://gis.slotegrator.com/api/images/games/54d041ee3a9dcfc180062b7f1c11d5f8/ElysiumStudios/48967f842bcd4add88a477d2519e5afe.png",
+              "type": "slots",
+              "provider": "ElysiumStudios",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "48967f842bcd4add88a477d2519e5afe"
+          },
+          {
+              "name": "Zodiac",
+              "image": "https://gis.slotegrator.com/api/images/games/54d041ee3a9dcfc180062b7f1c11d5f8/ElysiumStudios/ea0a77c7bc64406485308d9339a581ec.png",
+              "type": "slots",
+              "provider": "ElysiumStudios",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "ea0a77c7bc64406485308d9339a581ec"
+          },
+          {
+              "name": "Crimson Masquerade",
+              "image": "https://gis.slotegrator.com/api/images/games/54d041ee3a9dcfc180062b7f1c11d5f8/ElysiumStudios/02784da627f8481987556fd7e10d3ca6.png",
+              "type": "slots",
+              "provider": "ElysiumStudios",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "02784da627f8481987556fd7e10d3ca6"
+          },
+          {
+              "name": "Jungle Saga",
+              "image": "https://gis.slotegrator.com/api/images/games/54d041ee3a9dcfc180062b7f1c11d5f8/ElysiumStudios/bdeb686db9a348d3b9568fd4338a246e.png",
+              "type": "slots",
+              "provider": "ElysiumStudios",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "bdeb686db9a348d3b9568fd4338a246e"
+          },
+          {
+              "name": "Candy Girls",
+              "image": "https://gis.slotegrator.com/api/images/games/54d041ee3a9dcfc180062b7f1c11d5f8/ElysiumStudios/d007fd7ac35948fc8ca75a18d30f88e1.png",
+              "type": "slots",
+              "provider": "ElysiumStudios",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "d007fd7ac35948fc8ca75a18d30f88e1"
+          },
+          {
+              "name": "Wukong Treasures",
+              "image": "https://gis.slotegrator.com/api/images/games/54d041ee3a9dcfc180062b7f1c11d5f8/ElysiumStudios/103ab017d9c94d6593d4dc255bda5bd8.png",
+              "type": "slots",
+              "provider": "ElysiumStudios",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "103ab017d9c94d6593d4dc255bda5bd8"
+          },
+          {
+              "name": "Cloud 9 Surf Bliss",
+              "image": "https://gis.slotegrator.com/api/images/games/54d041ee3a9dcfc180062b7f1c11d5f8/ElysiumStudios/e77c54ad7c02455f97f0a4c01baf57e6.png",
+              "type": "slots",
+              "provider": "ElysiumStudios",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "e77c54ad7c02455f97f0a4c01baf57e6"
+          },
+          {
+              "name": "Dragon Myst",
+              "image": "https://gis.slotegrator.com/api/images/games/54d041ee3a9dcfc180062b7f1c11d5f8/ElysiumStudios/552719a17d54473e8fb453e536256793.png",
+              "type": "slots",
+              "provider": "ElysiumStudios",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "552719a17d54473e8fb453e536256793"
+          },
+          {
+              "name": "Sparta",
+              "image": "https://gis.slotegrator.com/api/images/games/54d041ee3a9dcfc180062b7f1c11d5f8/ElysiumStudios/4a2705b16d4d413da9f7928e1c3afe3e.png",
+              "type": "slots",
+              "provider": "ElysiumStudios",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "4a2705b16d4d413da9f7928e1c3afe3e"
+          },
+          {
+              "name": "Turn Your Fortune",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/339d852d94864423af90a629b27f4b44.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "339d852d94864423af90a629b27f4b44"
+          },
+          {
+              "name": "Twin Spin",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/f52c07166db6477792fc459e3ec5360e.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "f52c07166db6477792fc459e3ec5360e"
+          },
+          {
+              "name": "Twin Spin Megaways",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/8b5b4d84ecf045f593bd4ece2fde6803.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "8b5b4d84ecf045f593bd4ece2fde6803"
+          },
+          {
+              "name": "Victorious",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/0fc550d9f79a4de785226cb758abe7e6.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "0fc550d9f79a4de785226cb758abe7e6"
+          },
+          {
+              "name": "Wild Wild West: The Great Train Heist",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/caed93371b8946379815826213a1c92c.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "caed93371b8946379815826213a1c92c"
+          },
+          {
+              "name": "Willy's Hot Chillies",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/abe56ddb122243749d5c7c1f210f836d.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "abe56ddb122243749d5c7c1f210f836d"
+          },
+          {
+              "name": "Aloha! Christmas",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/32e4010398e947988212df460c70c8d6.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "32e4010398e947988212df460c70c8d6"
+          },
+          {
+              "name": "Aloha! Cluster Pays",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/a5dc7cb961f245808d7586564f442288.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "a5dc7cb961f245808d7586564f442288"
+          },
+          {
+              "name": "Blood Suckers",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/2ceedc06cb714fe7abbe15e06b42289b.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "2ceedc06cb714fe7abbe15e06b42289b"
+          },
+          {
+              "name": "Blood Suckers II",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/b5199edd40f647afbc464e4566bb0342.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "b5199edd40f647afbc464e4566bb0342"
+          },
+          {
+              "name": "Butterfly Staxx",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/c861a08d03ce407b9edd606198a1e881.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "c861a08d03ce407b9edd606198a1e881"
+          },
+          {
+              "name": "Dark King: Forbidden Riches",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/923766d41e734501858f1f56c9c2a556.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "923766d41e734501858f1f56c9c2a556"
+          },
+          {
+              "name": "Dazzle Me",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/894494558d24403da539b785eff13ad3.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "894494558d24403da539b785eff13ad3"
+          },
+          {
+              "name": "Dead or Alive",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/c77c98f91cda405fb431a1c131f964a0.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "c77c98f91cda405fb431a1c131f964a0"
+          },
+          {
+              "name": "Dead or Alive 2",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/221024b78faf492b8fac28a46bd31ae2.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "221024b78faf492b8fac28a46bd31ae2"
+          },
+          {
+              "name": "Dead or Alive 2 Feature Buy",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/639599d99aa54c51bb0305ed2860148b.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "639599d99aa54c51bb0305ed2860148b"
+          },
+          {
+              "name": "Divine Fortune Megaways",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/fe62274153624f55a0f245ab147a5e60.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "fe62274153624f55a0f245ab147a5e60"
+          },
+          {
+              "name": "Elements: The Awakening",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/03c5f3b060944d3bbbbdd6fad69ce6fb.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "03c5f3b060944d3bbbbdd6fad69ce6fb"
+          },
+          {
+              "name": "Fruit Shop",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/490d51613c13415ab2cb4b1b75eef9e8.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "490d51613c13415ab2cb4b1b75eef9e8"
+          },
+          {
+              "name": "Fruit Shop Christmas Edition",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/3425b23d1e7541af9aba0a1268e1db7a.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "3425b23d1e7541af9aba0a1268e1db7a"
+          },
+          {
+              "name": "Gonzo's Quest",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/589fb6adcf194d018d9a2c03c75cf35f.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "589fb6adcf194d018d9a2c03c75cf35f"
+          },
+          {
+              "name": "Gordon Ramsay Hell’s Kitchen",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/35db6ddb63ca4a549653bf2296284cb2.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "35db6ddb63ca4a549653bf2296284cb2"
+          },
+          {
+              "name": "Gorilla Kingdom",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/e0140d0f75d341f296f5570417d014c8.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "e0140d0f75d341f296f5570417d014c8"
+          },
+          {
+              "name": "Finn and the Swirly Spin",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/9de38f4c9cb1479099fffa7217058447.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "9de38f4c9cb1479099fffa7217058447"
+          },
+          {
+              "name": "Fruit Shop Megaways",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/81116e5f1efc4d72a3eea5d9e3d359ed.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "81116e5f1efc4d72a3eea5d9e3d359ed"
+          },
+          {
+              "name": "Guns N' Roses Video Slots",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/cda6f56e38a042e296103af9b20cda2f.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "cda6f56e38a042e296103af9b20cda2f"
+          },
+          {
+              "name": "Hotline",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/afd7398327a84bef8a37b3761a1d6cf9.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "afd7398327a84bef8a37b3761a1d6cf9"
+          },
+          {
+              "name": "Hotline 2",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/e3dcf5d2554544c7993210c60e481dad.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "e3dcf5d2554544c7993210c60e481dad"
+          },
+          {
+              "name": "Irish Pot Luck",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/0248869e312d4cb9a4cb1664957f85ef.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "0248869e312d4cb9a4cb1664957f85ef"
+          },
+          {
+              "name": "Jack Hammer",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/d9cc389c1f4d4409961be1b697d58f98.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "d9cc389c1f4d4409961be1b697d58f98"
+          },
+          {
+              "name": "Jack and the Beanstalk",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/698db2e383d24b729cba18ad71bf49dc.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "698db2e383d24b729cba18ad71bf49dc"
+          },
+          {
+              "name": "Jimi Hendrix Online Slot",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/1517867329d747de9ea02e25dfc8a3dc.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "1517867329d747de9ea02e25dfc8a3dc"
+          },
+          {
+              "name": "Jingle Spin",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/5ba8af7905b44c7080e02e5fd0851c93.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "5ba8af7905b44c7080e02e5fd0851c93"
+          },
+          {
+              "name": "Jumanji",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/14e1aa7a0e3b425e8756df90f882b37e.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "14e1aa7a0e3b425e8756df90f882b37e"
+          },
+          {
+              "name": "Motorhead Video Slot",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/2f9b3192310e4a079b2279acc933a505.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "2f9b3192310e4a079b2279acc933a505"
+          },
+          {
+              "name": "Narcos",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/df07f667fb1b44f0a40353c95974e1fd.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "df07f667fb1b44f0a40353c95974e1fd"
+          },
+          {
+              "name": "Ozzy Osbourne Video Slots",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/4299cbc5d7e54effaa1dcea1660b64bb.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "4299cbc5d7e54effaa1dcea1660b64bb"
+          },
+          {
+              "name": "Piggy Riches",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/36672297391d4ac29993afc2fc400233.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "36672297391d4ac29993afc2fc400233"
+          },
+          {
+              "name": "Pyramid: Quest for Immortality",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/c59500b938ef47c7855126c975e14bf4.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "c59500b938ef47c7855126c975e14bf4"
+          },
+          {
+              "name": "Rage of the Seas",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/ba847c8ea8cc4371b1105f6e0b3c8a60.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "ba847c8ea8cc4371b1105f6e0b3c8a60"
+          },
+          {
+              "name": "Reel Rush",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/bb14260c975748479b41f2dd7bf1ccfc.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "bb14260c975748479b41f2dd7bf1ccfc"
+          },
+          {
+              "name": "Riches of Midgard: Land and Expand",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/42e05619c0e3400ea32ef9c84a835e80.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "42e05619c0e3400ea32ef9c84a835e80"
+          },
+          {
+              "name": "Rome: The Golden Age",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/939dbb4ba84241a990cf3322d464437d.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "939dbb4ba84241a990cf3322d464437d"
+          },
+          {
+              "name": "Serengeti Kings",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/dc9ef26c1ee34ec3975521087703f5a3.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "dc9ef26c1ee34ec3975521087703f5a3"
+          },
+          {
+              "name": "Steam Tower",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/2ec04776f6d4454f8e6cbcbc4b3a60dd.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "2ec04776f6d4454f8e6cbcbc4b3a60dd"
+          },
+          {
+              "name": "Starburst",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/8673bad1dd35434dbcec1c32e0ed9eeb.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "8673bad1dd35434dbcec1c32e0ed9eeb"
+          },
+          {
+              "name": "Street Fighter II: The World Warrior Slot",
+              "image": "https://gis.slotegrator.com/api/images/games/3962be5e18b1e84fdd95613e87dfda1a/NetEnt/00cf26093227417f80cdbb00c6f1e46b.png",
+              "type": "slots",
+              "provider": "netentpremium",
+              "is_mobile": 0,
+              "technology": "HTML5",
+              "uuid": "00cf26093227417f80cdbb00c6f1e46b"
+          }
+      
+]

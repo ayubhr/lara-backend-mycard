@@ -1,0 +1,1 @@
+cmd=writeBet&login=34&key=as0fj-209nf0n0fdfsndf0n&hall=16&bet=0.2&winLose=-0.2&tradeId=5657874546&betInfo=bet&gameId=101&date=2021-03-25%2000%3A29%3A19&matrix=%5B7%2C4%2C5%2C4%2C4%2C5%2C2%2C5%2C4%2C4%2C5%2C2%2C0%2C0%2C7%5D

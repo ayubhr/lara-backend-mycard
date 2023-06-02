@@ -1,0 +1,42 @@
+<div data-role='page' id='till-login' data-url='till-login_aspx' data-lang='fr'>
+    <div data-tap-toggle='false' data-role='header' data-theme='b' class='tw-header' data-add-back-btn='false' data-back-btn-text='.'>
+        <h1 class='tw-header-title'>
+            Me connecter</h1></div>
+            <div data-role='content'>
+                <div id='twMainContentView'>
+                    <form autocomplete='off' action='till/till-login' method='post' id='adminLoginForm'>
+                        <input type='hidden' name='routeAction' value='till-login'  />
+                        <ul data-role='listview' data-inset='false'>
+                            <li data-role='list-divider' class='tw-ui-li-divider' data-theme='b'>Me connecter</li></li>
+                            <li data-role='fieldcontain'>
+                                <label for='username'>
+                                    Nom d&#39;utilisateur:</label> <input type='text' name='username' id='username' placeholder='Nom d&#39;utilisateur' value='' maxlength='20' data-mini='true' data-valgroup='login'
+                                    data-valfunction='loginUname' data-clear-btn='true' /> </li>
+                                    <li data-role='fieldcontain'>
+                                        <label for='password'>
+                                            Mot de passe:</label> <input type='password' name='pswd' id='pswd' placeholder='Mot de passe' maxlength='40' data-mini='true' data-valgroup='login' data-valfunction='loginPswd'
+                                            data-clear-btn='true' /> </li>
+                                            <li data-role='fieldcontain' class='fieldHide'>
+                                                <label for='comment'>
+                                                    Please leave empty</label> <input type='text' name='comment' id='comment' value='' maxlength='200'  /> </li>
+                                                    <li data-role='fieldcontain'>
+                                                        <input type='submit' value='Me connecter' data-mini='true' data-icon='lock' data-theme='c' data-iconpos='right' onclick='return validateGroup("login");'  /> </li> </ul> </form>
+                                                        </div>
+                                                        <div id='twInfoContentView' class='fieldHide'>
+                                                            </div>
+                                                            <div id='masterDetailsBox' class='fieldHide'></div> </div></div></div>
+                                                        </div>
+                                                    </li>
+                                                </label>
+                                            </li>
+                                        </label>
+                                    </li>
+                                </label>
+                            </li>
+                        </ul>
+                    </form>
+                </div>
+            </div>
+        </h1>
+    </div>
+</div>

@@ -1,0 +1,120 @@
+<div data-role='page' id='tcardactions' data-url='tcardactions_aspx' data-lang='fr'>
+   <div data-tap-toggle='false' data-role='header' data-theme='b' class='tw-header' data-add-back-btn='true' data-back-btn-text='.'>
+      <h1 class="tw-header-title ui-title" role="heading" aria-level="1">Player management</h1>
+   </div>
+   <div data-role='content'>
+      <ul data-role='listview' data-inset='false' style='margin-bottom:17px;margin-top:-1.1em;'>
+         <li class='ui-li-admin-account'>
+             <div class='ui-grid-a'><div class='ui-block-a tw-inline tw-bold' style="line-height:18px; padding-left:8px; padding-top:4px;">*username* : <span id="adminBalance">*funds*</span></div>
+            <div class='ui-block-b'>
+               <a href='#till' class='ui-btn ui-btn-c ui-btn-inline ui-icon-home ui-btn-icon-notext tw-btn-rounded'>I</a>
+               <form method="post" class="nested-form" id="reloadForm" action="admin/account/balance"><input name="__RequestVerificationToken" type="hidden" value="4677fb692c2ca451f5ba482d97e88489_1b89a733fe7181bb4aa6a03d69fb2191" /><input type="hidden" name="routeAction" value="account/balance" /><input type="submit" data-icon="refresh" data-theme="c" data-inline="true" data-iconpos="notext" class="tw-btn-rounded" /></form>
+            </div>
+   </div>
+   </li></ul>
+   <div id='twMainContentView'>
+      <div class="ui-grid-a grid-medium">
+          <div class="ui-block-a"><span>Nom d&#39;utilisateur: </span><span class="tw-bold account-holder  user-*player_status*">*player_username*</span></div>
+          <div class="ui-block-b"><span>Montant sur compte: </span><span id="saldo-box" class="tw-bold">*player_funds*</span></div>
+      </div>
+      <div data-role="tabs" id="playerDetailsNav" style="margin-top: 4px;">
+      <div data-role="navbar" data-inset="true">
+         <ul>
+            <li><a href="#payment" data-ignore="1" class="ui-btn-active ui-state-persist" data-ajax="false">Payment</a></li>
+            <li><a href="#playerDetails" data-ignore="1" data-ajax="false">Details</a></li>
+            <li><a href="#topPlayers" data-ignore="1" data-ajax="true">Players</a></li>
+         </ul>
+      </div>
+      <div id="payment">
+         <form autocomplete='off' action='admin/cashier/player-payments' method='post'>
+            <input name="__RequestVerificationToken" type="hidden" value="" /><input type="hidden" name="routeAction" value="account/player-payment" />
+            <input type="hidden" name="paymentMode" id="paymentMode" value="-1" />
+            <input type="hidden" name="player_id" value="*player_id*" />
+            <div id="alternatingBlock">
+               <div class='ui-grid-b'>
+                  <div class='ui-block-a'><button type="button" class="payment-chip" data-amount="100">100</button></div>
+                  <div class='ui-block-b'><button type="button" class="payment-chip" data-amount="200">200</button></div>
+                  <div class='ui-block-c'><button type="button" class="payment-chip" data-amount="300">300</button></div>
+                  <div class='ui-block-a'><button type="button" class="payment-chip" data-amount="500">500</button></div>
+                  <div class='ui-block-b'><button type="button" class="payment-chip" data-amount="1000">1000</button></div>
+                  <div class='ui-block-c'><button type="button" class="payment-chip" data-amount="2000">2000</button></div>
+                  <div class='ui-block-a'><button type="button" class="payment-chip" data-amount="3000">3000</button></div>
+                  <div class='ui-block-b'><button type="button" class="payment-chip" data-amount="4000">4000</button></div>
+                  <div class='ui-block-c'><button type="button" class="payment-chip" data-amount="5000">5000</button></div>				  
+               </div>
+               <div class="ui-field-contain"><label style="font-size:14px;" for="amount">Amount:</label><input type="text" id="amount" name="amount" class="amount-block" data-mini="true" placeholder="Amount" value="0.00" data-clear-btn="true" maxlength="16" onclick="MobileAdmin.displayKeypad();" data-valgroup='payment' data-valfunction='amount' /></div>
+               <div class="ui-field-contain"><input type="submit" data-mini="true" value="Deposit" data-theme="c" data-icon="arrow-d" data-iconpos="right" data-transfermode="1" onclick='return validatePaymentGroup("payment", 1);' /></div>
+               <div class="ui-field-contain"><input type="submit" data-mini="true" value="Retrait" data-theme="f" data-icon="arrow-u" data-iconpos="right" data-transfermode="2" onclick='return validatePaymentGroup("payment", 2);' /></div>
+            </div>
+         </form>
+         <div id='keypadWrapper' class='fieldHide'>
+            <div id='keypadView' data-enhanced='true' onclick='MobileAdmin.setTransferAmount(event);'>
+               <div class='ui-grid-solo'><input type='text' value='0.00' data-tempamount="0" id='keypadAmount' class='ui-disabled' style='opacity:1;font-weight:bold;' placeholder='Amount' /></div>
+               <div class='ui-grid-b'>
+                  <div class='ui-block-a'><input type='button' value='1' /></div>
+                  <div class='ui-block-b'><input type='button' value='2' /></div>
+                  <div class='ui-block-c'><input type='button' value='3' /></div>
+                  <div class='ui-block-a'><input type='button' value='4' /></div>
+                  <div class='ui-block-b'><input type='button' value='5' /></div>
+                  <div class='ui-block-c'><input type='button' value='6' /></div>
+                  <div class='ui-block-a'><input type='button' value='7' /></div>
+                  <div class='ui-block-b'><input type='button' value='8' /></div>
+                  <div class='ui-block-c'><input type='button' value='9' /></div>
+                  <div class='ui-block-a'><input type='button' value='.' /></div>
+                  <div class='ui-block-b'><input type='button' value='0' /></div>
+                  <div class='ui-block-c'><input type='button' data-cmd='resetAmount' value='C' /></div>
+               </div>
+               <div class='ui-grid-a' style="margin-top:8px;">
+                  <div class='ui-block-a'><input type='button' data-cmd='cancelInput' value='Cancel' data-theme='e' data-mini='true' data-icon='delete' /></div>
+                  <div class='ui-block-b'><input type='button' data-cmd='setTotalInput' value='OK' data-theme='c' data-icon='check' data-mini='true' data-iconpos='right' /></div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div id="playerDetails">
+         <ul data-role="listview" style="margin-top:8px;" data-inset="true" class="ul-simple">
+            <li>
+               <form method="post" id="activityForm" action='admin/cashier/player-activity'>
+                   <input type="hidden" name="routeAction" value="cashier/player-activity" /><input type="hidden" name="mode" value="2" /> <span class="tw-bold" style="margin-right:10px;">Active:</span>
+                  <select name="activity-switch" id="activity-switch" data-role="flipswitch" onchange="$('#activityForm').submit()" data-theme="k">
+                      *player_activity*
+                  </select>
+                  <input type="hidden" name="player_id" value="*player_id*"/>
+               </form>
+            </li>
+            <li><span class="tw-bold">Role:</span><span> *player_role* </span></li>
+            <li><span class="tw-bold">Player ID:</span><span> *player_id* </span></li>
+            <li><span class="tw-bold">Creation Date:</span><span> *created_date* </span></li>
+			<li><span class="tw-bold">Username:</span><span> *player_username* </span></li>
+            <li>
+                <form method="post" action='admin/cashier/player-reset'><input name="__RequestVerificationToken" type="hidden" value="4677fb692c2ca451f5ba482d97e88489_1b89a733fe7181bb4aa6a03d69fb2191" /><input type="hidden" name="routeAction" value="player-reset" /><input type="hidden" name="mode" value="2" /><input type="hidden" name="player_id" value="*player_id*"/> <input type="submit" data-mini="true" data-icon="refresh" data-theme="f" data-iconpos="right" value="Reset password" /></form>
+            </li>
+         </ul>
+      </div>
+      <div id="topPlayers">
+         <div style="margin-top:12px;"><input id="searchplayers" data-mini="true" data-type="search" /><input type="hidden" name="tosearch" id="tosearch" value="player"></div>
+         <ul data-role="listview" style="margin:8px -12px 0 -12px;" data-inset="true" class="ul-simple transactional-list" data-filter="true" data-input="#searchplayers">
+         <li data-role='list-divider' class='tw-ui-li-divider ui-li-divider ui-bar-b '>
+            <div class='ui-grid-a tw-fsize11'>
+               <div class='ui-block-a tw-inline'>Nom d&#39;utilisateur</div>
+               <div class='ui-block-b tw-inline tw-text-rintent10'>Amount</div>
+            </div>
+         </li>
+         <li class="pt-row">
+            <div class='ui-grid-a tw-fsize11 text-g'>
+                <div class='ui-block-a tw-inline tw-bold'>Total : *total_players*</div>
+                <div class='ui-block-b tw-inline tw-text-right tw-bold'>*total_players_funds*</div>
+            </div>
+         </li>
+                  
+
+         			*list-player*
+
+                  <li><input type="button" data-theme="e" value="Top" data-icon="arrow-u" data-iconpos="right" data-mini="true" onclick='TwNavigation.PageTop();' /></li>
+         </ul>
+      </div>
+   </div>
+</div>
+<div id='twInfoContentView' class='fieldHide'></div>
+<div id='masterDetailsBox' class='fieldHide'></div>
+</div></div>

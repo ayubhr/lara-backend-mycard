@@ -1,0 +1,5080 @@
+{
+  "amatic": [
+    {
+      "id": 101,
+      "name": "Hot Seven",
+      "menu_title": "Hot7",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hot7icon.png"
+    },
+    {
+      "id": 102,
+      "name": "Hot Twenty",
+      "menu_title": "HotTwenty",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hottwentyicon.png"
+    },
+    {
+      "id": 103,
+      "name": "Wild Seven",
+      "menu_title": "Wild7",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/wild7icon.png"
+    },
+    {
+      "id": 104,
+      "name": "Hot Stars",
+      "menu_title": "HotStar",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hotstaricon.png"
+    },
+    {
+      "id": 105,
+      "name": "Book Of Fortune",
+      "menu_title": "BookOfFortune",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/bookoffortuneicon.png"
+    },
+    {
+      "id": 106,
+      "name": "Book of Aztec",
+      "menu_title": "BookOfAztec",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/bookofaztecicon.png"
+    },
+    {
+      "id": 107,
+      "name": "Admiral",
+      "menu_title": "Admiral",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/admiralicon.png"
+    },
+    {
+      "id": 108,
+      "name": "Hot 27",
+      "menu_title": "TwentySeven",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/twentysevenicon.png"
+    },
+    {
+      "id": 109,
+      "name": "Bells On Fire",
+      "menu_title": "BellsOnFire",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/bellsonfireicon.png"
+    },
+    {
+      "id": 110,
+      "name": "Wild Diamonds",
+      "menu_title": "WildDiamonds",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/wilddiamondsicon.png"
+    },
+    {
+      "id": 111,
+      "name": "Magic Idol",
+      "menu_title": "MagicIdol",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/magicidolicon.png"
+    },
+    {
+      "id": 112,
+      "name": "Merry Fruits",
+      "menu_title": "MerryFruits",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/merryfruitsicon.png"
+    },
+    {
+      "id": 113,
+      "name": "Hot Scatter",
+      "menu_title": "HotScatter",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hotscattericon.png"
+    },
+    {
+      "id": 114,
+      "name": "Hot Neon",
+      "menu_title": "HotNeon",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hotneonicon.png"
+    },
+    {
+      "id": 115,
+      "name": "Lovely Lady",
+      "menu_title": "LadyLuck",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/ladyluckicon.png"
+    },
+    {
+      "id": 116,
+      "name": "Lucky Coin",
+      "menu_title": "LuckyCoin",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/luckycoinicon.png"
+    },
+    {
+      "id": 117,
+      "name": "Blue Dolphin",
+      "menu_title": "BlueDolphin",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/bluedolphinicon.png"
+    },
+    {
+      "id": 118,
+      "name": "Wild Stars",
+      "menu_title": "WildStars",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/wildstarsicon.png"
+    },
+    {
+      "id": 119,
+      "name": "Fortunas Fruits",
+      "menu_title": "FortunasFruits",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/fortunasfruitsicon.png"
+    },
+    {
+      "id": 120,
+      "name": "Casanova",
+      "menu_title": "Casanova",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/casanovaicon.png"
+    },
+    {
+      "id": 121,
+      "name": "Hot Diamonds",
+      "menu_title": "HotDiamonds",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hotdiamondsicon.png"
+    },
+    {
+      "id": 122,
+      "name": "Party Time",
+      "menu_title": "PartyTime",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/partytimeicon.png"
+    },
+    {
+      "id": 123,
+      "name": "All Ways Fruits",
+      "menu_title": "AllWaysFruits",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/allwaysfruitsicon.png"
+    },
+    {
+      "id": 124,
+      "name": "Cool Diamonds II",
+      "menu_title": "CoolDiamondsII",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/cooldiamondsiiicon.png"
+    },
+    {
+      "id": 125,
+      "name": "Wolf Moon",
+      "menu_title": "WolfMoon",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/wolfmoonicon.png"
+    },
+    {
+      "id": 126,
+      "name": "Wild Shark",
+      "menu_title": "WildShark",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/wildsharkicon.png"
+    },
+    {
+      "id": 127,
+      "name": "Dragons Pearl",
+      "menu_title": "DragonsPearl",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/dragonspearlicon.png"
+    },
+    {
+      "id": 128,
+      "name": "Wild Respin",
+      "menu_title": "WildRespin",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/wildrespinicon.png"
+    },
+    {
+      "id": 129,
+      "name": "Eye of Ra",
+      "menu_title": "EyeOfRa",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/eyeofraicon.png"
+    },
+    {
+      "id": 130,
+      "name": "Lady Joker",
+      "menu_title": "LadyJoker",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/ladyjokericon.png"
+    },
+    {
+      "id": 131,
+      "name": "Magic Owl",
+      "menu_title": "MagicOwl",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/magicowlicon.png"
+    },
+    {
+      "id": 132,
+      "name": "Arising Phoenix",
+      "menu_title": "ArisingPhoenix",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/arisingphoenixicon.png"
+    },
+    {
+      "id": 133,
+      "name": "Billyonaire",
+      "menu_title": "Billyonaire",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/billyonaireicon.png"
+    },
+    {
+      "id": 134,
+      "name": "Diamond Cats",
+      "menu_title": "DiamondCats",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/diamondcatsicon.png"
+    },
+    {
+      "id": 135,
+      "name": "Lucky Bells",
+      "menu_title": "LuckyBells",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/luckybellsicon.png"
+    },
+    {
+      "id": 136,
+      "name": "Royal Unicorn",
+      "menu_title": "RoyalUnicorn",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/royalunicornicon.png"
+    },
+    {
+      "id": 137,
+      "name": "GrandX",
+      "menu_title": "GrandX",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/grandxicon.png"
+    },
+    {
+      "id": 138,
+      "name": "Lucky Zodiac",
+      "menu_title": "LuckyZodiac",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/luckyzodiacicon.png"
+    },
+    {
+      "id": 139,
+      "name": "Mermaids Gold",
+      "menu_title": "MermaidsGold",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/mermaidsgoldicon.png"
+    },
+    {
+      "id": 140,
+      "name": "Roman Legion",
+      "menu_title": "RomanLegion",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/romanlegionicon.png"
+    },
+    {
+      "id": 141,
+      "name": "Dragons Kingdom",
+      "menu_title": "DragonsKingdom",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/dragonskingdomicon.png"
+    },
+    {
+      "id": 142,
+      "name": "Bells On Fire Rombo",
+      "menu_title": "BellsOnFireRombo",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/bellsonfireromboicon.png"
+    },
+    {
+      "id": 143,
+      "name": "Magic Forest",
+      "menu_title": "MagicForest",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/magicforesticon.png"
+    },
+    {
+      "id": 144,
+      "name": "Bells on Fire Hot",
+      "menu_title": "BellsOnFireHot",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/bellsonfireicon.png"
+    },
+    {
+      "id": 145,
+      "name": "Hot 81",
+      "menu_title": "Hot81",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hot81icon.png"
+    },
+    {
+      "id": 146,
+      "name": "Golden Book",
+      "menu_title": "GoldenBook",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/goldenbookicon.png"
+    },
+    {
+      "id": 147,
+      "name": "Diamond Monkey",
+      "menu_title": "DiamondMonkey",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/diamondmonkeyicon.png"
+    },
+    {
+      "id": 148,
+      "name": "Casinova",
+      "menu_title": "Casinova",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/casinovaicon.png"
+    },
+    {
+      "id": 149,
+      "name": "Red Chilli",
+      "menu_title": "RedChilli",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/redchilliicon.png"
+    },
+    {
+      "id": 150,
+      "name": "Dynamite7",
+      "menu_title": "Dynamite7",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/dynamite7icon.png"
+    },
+    {
+      "id": 151,
+      "name": "Fantastico",
+      "menu_title": "Fantastico",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/fantasticoicon.png"
+    },
+    {
+      "id": 152,
+      "name": "Big Panda",
+      "menu_title": "BigPanda",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/bigpandaicon.png"
+    },
+    {
+      "id": 153,
+      "name": "Lady Luck",
+      "menu_title": "LadyLuck2",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/ladyluckicon.png"
+    },
+    {
+      "id": 154,
+      "name": "Diamonds On Fire",
+      "menu_title": "DiamondsOnFire",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/diamondsonfireicon.png"
+    },
+    {
+      "id": 155,
+      "name": "Tweety Birds",
+      "menu_title": "TweetyBirds",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/tweetybirdsicon.png"
+    },
+    {
+      "id": 156,
+      "name": "Billy's Game",
+      "menu_title": "BillysGame",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/billysgameicon.png"
+    },
+    {
+      "id": 157,
+      "name": "Aztec Secret",
+      "menu_title": "AztecSecret",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/aztecsecreticon.png"
+    },
+    {
+      "id": 158,
+      "name": "Wild Dragon",
+      "menu_title": "WildDragon",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/wilddragonicon.png"
+    },
+    {
+      "id": 159,
+      "name": "Grand Tiger",
+      "menu_title": "GrandTiger",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/grandtigericon.png"
+    },
+    {
+      "id": 160,
+      "name": "Fire & Ice",
+      "menu_title": "FireAndIce",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/fireandiceicon.png"
+    },
+    {
+      "id": 161,
+      "name": "Vampires",
+      "menu_title": "Vampires",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/vampiresicon.png"
+    },
+    {
+      "id": 162,
+      "name": "La Gran Aventura",
+      "menu_title": "Lagranaventura",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/lagranaventuraicon.png"
+    },
+    {
+      "id": 163,
+      "name": "Gem Star",
+      "menu_title": "GemStar",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/gemstaricon.png"
+    },
+    {
+      "id": 164,
+      "name": "Lightning Hot",
+      "menu_title": "LightningHot",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/lightninghoticon.png"
+    },
+    {
+      "id": 165,
+      "name": "All Ways Win",
+      "menu_title": "AllwaysWin",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/allwayswinicon.png"
+    },
+    {
+      "id": 166,
+      "name": "Magic Scatter",
+      "menu_title": "MagicScatter",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/magicscattericon.png"
+    },
+    {
+      "id": 167,
+      "name": "Ultra Seven",
+      "menu_title": "UltraSeven",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/ultrasevenicon.png"
+    },
+    {
+      "id": 168,
+      "name": "Kings Crown",
+      "menu_title": "KingsCrown",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/kingscrownicon.png"
+    },
+    {
+      "id": 169,
+      "name": "All Ways Joker",
+      "menu_title": "AllwaysJoker",
+      "category": "amatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/allwaysjokericon.png"
+    },
+    {
+      "id": 170,
+      "name": "Enchanted Cleopatra",
+      "menu_title": "EnchantedCleopatra",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/enchantedcleopatraicon.jpg"
+    },
+    {
+      "id": 171,
+      "name": "Hot 40",
+      "menu_title": "Hot40",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hot40icon.jpg"
+    },
+    {
+      "id": 172,
+      "name": "Golden Joker",
+      "menu_title": "GoldenJoker",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/goldenjokericon.jpg"
+    },
+    {
+      "id": 173,
+      "name": "Flying Dutchman",
+      "menu_title": "FlyingDutchman",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/flyingdutchmanicon.jpg"
+    },
+    {
+      "id": 174,
+      "name": "Sakura Fruits",
+      "menu_title": "SakuraFruits",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/sakurafruitsicon.jpg"
+    },
+    {
+      "id": 175,
+      "name": "Hot Choice",
+      "menu_title": "HotChoice",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hotchoiceicon.jpg"
+    },
+    {
+      "id": 176,
+      "name": "Hot Scatter Dice",
+      "menu_title": "HotScatterDice",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hotscatterdiceicon.jpg"
+    },
+    {
+      "id": 177,
+      "name": "Hot 7 Dice",
+      "menu_title": "Hot7Dice",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hot7diceicon.jpg"
+    },
+    {
+      "id": 178,
+      "name": "Hot 27 Dice",
+      "menu_title": "Hot27Dice",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hot27diceicon.jpg"
+    },
+    {
+      "id": 181,
+      "name": "Hot Fruits 20",
+      "menu_title": "HotFruits20",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hotfruits20icon.jpg"
+    },
+    {
+      "id": 182,
+      "name": "Hot Fruits 40",
+      "menu_title": "HotFruits40",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hotfruits40icon.jpg"
+    },
+    {
+      "id": 183,
+      "name": "Hot Fruits 100",
+      "menu_title": "HotFruits100",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hotfruits100icon.jpg"
+    },
+    {
+      "id": 184,
+      "name": "Beauty Fairy",
+      "menu_title": "BeautyFairy",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/beautyfairyicon.jpg"
+    },
+    {
+      "id": 185,
+      "name": "Book Of Lords",
+      "menu_title": "BookOfLords",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/bookoflordsicon.jpg"
+    },
+    {
+      "id": 186,
+      "name": "Book Of Queen",
+      "menu_title": "BookOfQueen",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/bookofqueenicon.jpg"
+    },
+    {
+      "id": 187,
+      "name": "Lucky Joker 5",
+      "menu_title": "LuckyJoker5",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/luckyjoker5icon.jpg"
+    },
+    {
+      "id": 188,
+      "name": "Lucky Joker 20",
+      "menu_title": "LuckyJoker20",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/luckyjoker20icon.jpg"
+    },
+    {
+      "id": 189,
+      "name": "Lucky Joker 40",
+      "menu_title": "LuckyJoker40",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/luckyjoker40icon.jpg"
+    },
+    {
+      "id": 190,
+      "name": "Beauty Warrior",
+      "menu_title": "BeautyWarrior",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/beautywarrioricon.jpg"
+    },
+    {
+      "id": 191,
+      "name": "Party Night",
+      "menu_title": "PartyNight",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/partynighticon.jpg"
+    },
+    {
+      "id": 192,
+      "name": "Dragons Gift",
+      "menu_title": "DragonsGift",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/dragonsgifticon.jpg"
+    },
+    {
+      "id": 193,
+      "name": "Crystal Fruits",
+      "menu_title": "CrystalFruits",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/crystalfruitsicon.jpg"
+    },
+    {
+      "id": 194,
+      "name": "Dragon's Mystery",
+      "menu_title": "DragonsMystery",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/dragonsmysteryicon.jpg"
+    },
+    {
+      "id": 195,
+      "name": "Book Of Pharao",
+      "menu_title": "BookOfPharao",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/bookofpharaoicon.jpg"
+    },
+    {
+      "id": 196,
+      "name": "Hottest Fruits 20",
+      "menu_title": "HottestFruits20",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hottestfruits20icon.jpg"
+    },
+    {
+      "id": 197,
+      "name": "Sakura Secret",
+      "menu_title": "SakuraSecret",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/sakurasecreticon.jpg"
+    },
+    {
+      "id": 198,
+      "name": "Hot Fruits 27",
+      "menu_title": "HotFruits27",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hotfruits27icon.jpg"
+    },
+    {
+      "id": 199,
+      "name": "Hottest Fruits 40",
+      "menu_title": "HottestFruits40",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hottestfruits40icon.jpg"
+    },
+    {
+      "id": 200,
+      "name": "Bingo",
+      "menu_title": "Keno",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/kenoicon.png"
+    },
+    {
+      "id": 201,
+      "name": "Deuces Wild",
+      "menu_title": "DeucesWild",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/deuceswildicon.png"
+    },
+    {
+      "id": 202,
+      "name": "Jacks or Better",
+      "menu_title": "JacksOrBetter",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/jacksorbettericon.png"
+    },
+    {
+      "id": 203,
+      "name": "Joker Card",
+      "menu_title": "JokerCardPoker",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/jokercardpokericon.png"
+    },
+    {
+      "id": 204,
+      "name": "Multi Card Win",
+      "menu_title": "MultiCardWin",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/multicardwinicon.png"
+    },
+    {
+      "id": 205,
+      "name": "Multi Card Win Triple",
+      "menu_title": "MultiCardWinTriple",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/multicardwintripleicon.png"
+    },
+    {
+      "id": 206,
+      "name": "Black Jack",
+      "menu_title": "BlackJack",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/blackjackicon.png"
+    },
+    {
+      "id": 207,
+      "name": "Fruit Poker",
+      "menu_title": "FruitCardPoker",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/fruitcardpokericon.png"
+    },
+    {
+      "id": 208,
+      "name": "Tens Or Better",
+      "menu_title": "TensOrBetter",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/tensorbettericon.jpg"
+    },
+    {
+      "id": 209,
+      "name": "JokerPoker",
+      "menu_title": "JokerPokerPoker",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/jokercardpokericon.jpg"
+    },
+    {
+      "id": 220,
+      "name": "Lucky Joker 100",
+      "menu_title": "LuckyJoker100",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/luckyjoker100icon.jpg"
+    },
+    {
+      "id": 221,
+      "name": "Hot Fruits Deluxe",
+      "menu_title": "HotFruitsDeluxe",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hotfruitsdeluxeicon.jpg"
+    },
+    {
+      "id": 222,
+      "name": "Grand Fruits",
+      "menu_title": "GrandFruits",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/grandfruitsicon.jpg"
+    },
+    {
+      "id": 223,
+      "name": "Grand Casnova",
+      "menu_title": "GrandCasanova",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/grandcasanovaicon.jpg"
+    },
+    {
+      "id": 224,
+      "name": "Fortune Girl",
+      "menu_title": "FortuneGirl",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/fortunegirlicon.jpg"
+    },
+    {
+      "id": 225,
+      "name": "Book Of Fruits",
+      "menu_title": "BookOfFruits",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/bookoffruitsicon.jpg"
+    },
+    {
+      "id": 226,
+      "name": "Golden Quest",
+      "menu_title": "GoldenQuest",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/goldenquesticon.jpg"
+    },
+    {
+      "id": 227,
+      "name": "Fire Queen",
+      "menu_title": "FireQueen",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/firequeenicon.jpg"
+    },
+    {
+      "id": 228,
+      "name": "Chinese Spider",
+      "menu_title": "ChineseSpider",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/chinesespidericon.jpg"
+    },
+    {
+      "id": 229,
+      "name": "Plenty Dragons",
+      "menu_title": "PlentyDragons",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/plentydragonsicon.jpg"
+    },
+    {
+      "id": 230,
+      "name": "Crazy Bee",
+      "menu_title": "CrazyBee",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/crazybeeicon.jpg"
+    },
+    {
+      "id": 231,
+      "name": "Fruit Box",
+      "menu_title": "FruitBox",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/fruitboxicon.jpg"
+    },
+    {
+      "id": 232,
+      "name": "Super Cats",
+      "menu_title": "SuperCats",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/supercatsicon.jpg"
+    },
+    {
+      "id": 233,
+      "name": "Dia Muertos",
+      "menu_title": "DiaMuertos",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/diamuertosicon.jpg"
+    },
+    {
+      "id": 234,
+      "name": "All Ways Hot Fruits",
+      "menu_title": "AllwaysHotFruits",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/allwayshotfruitsicon.jpg"
+    },
+    {
+      "id": 236,
+      "name": "Hot Scatter Deluxe",
+      "menu_title": "HotScatterDeluxe",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hotscatterdeluxeicon.jpg"
+    },
+    {
+      "id": 237,
+      "name": "Lady Pin-Ups 100",
+      "menu_title": "LadyPinups100",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/ladypinups100icon.jpg"
+    },
+    {
+      "id": 238,
+      "name": "Book Of Fruits Halloween",
+      "menu_title": "BookOfFruitsHalloween",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/bookoffruitshalloweenicon.jpg"
+    },
+    {
+      "id": 239,
+      "name": "Hot Choice Deluxe",
+      "menu_title": "HotChoiceDeluxe",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/hotchoicedeluxeicon.jpg"
+    },
+    {
+      "id": 240,
+      "name": "Oktoberfest",
+      "menu_title": "Oktoberfest",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/oktoberfesticon.jpg"
+    },
+    {
+      "id": 241,
+      "name": "Mega Shark",
+      "menu_title": "MegaShark",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/megasharkicon.jpg"
+    },
+    {
+      "id": 242,
+      "name": "Lucky Respin",
+      "menu_title": "LuckyRespin",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/luckyrespinicon.jpg"
+    },
+    {
+      "id": 243,
+      "name": "Book of Fruits 20",
+      "menu_title": "bookoffruits20",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/bookoffruits20icon.jpg"
+    },
+    {
+      "id": 244,
+      "name": "Nicer Dice 40",
+      "menu_title": "nicerdice40",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/nicerdice40icon.jpg"
+    },
+    {
+      "id": 245,
+      "name": "Lady Fruits 20",
+      "menu_title": "LadyFruits20",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/ladyfruits20icon.jpg"
+    },
+    {
+      "id": 246,
+      "name": "Lovely Lady Xmas",
+      "menu_title": "LovelyLadyXmas",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/lovelyladyxmasicon.jpg"
+    },
+    {
+      "id": 300,
+      "name": "Roulette Royal",
+      "menu_title": "RouletteRoyal",
+      "category": "amatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/amatic/rouletteroyalicon.png"
+    }
+  ],
+  "netent": [
+    {
+      "id": 501,
+      "name": "StarBurst",
+      "menu_title": "starburst",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/starbursticon.jpg"
+    },
+    {
+      "id": 502,
+      "name": "TwinSpin",
+      "menu_title": "twinspin",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/twinspinicon.jpg"
+    },
+    {
+      "id": 503,
+      "name": "Magic Portals",
+      "menu_title": "magicportals",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/magicportalsicon.jpg"
+    },
+    {
+      "id": 504,
+      "name": "Victorious",
+      "menu_title": "victorious",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/victoriousicon.jpg"
+    },
+    {
+      "id": 505,
+      "name": "Dead or Alive",
+      "menu_title": "deadoralive",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/deadoraliveicon.jpg"
+    },
+    {
+      "id": 506,
+      "name": "Eggomatic",
+      "menu_title": "eggomatic",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/eggomaticicon.jpg"
+    },
+    {
+      "id": 507,
+      "name": "Gonzos Quest",
+      "menu_title": "eldorado",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/eldoradoicon.jpg"
+    },
+    {
+      "id": 508,
+      "name": "Flowers",
+      "menu_title": "flowers",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/flowersicon.jpg"
+    },
+    {
+      "id": 509,
+      "name": "Jack and the Beanstalk",
+      "menu_title": "jackandbeanstalk",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/jackandbeanstalkicon.jpg"
+    },
+    {
+      "id": 510,
+      "name": "JackHammer 2",
+      "menu_title": "jackhammer2",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/jackhammer2icon.jpg"
+    },
+    {
+      "id": 511,
+      "name": "Piggy Riches",
+      "menu_title": "piggyriches",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/piggyrichesicon.jpg"
+    },
+    {
+      "id": 512,
+      "name": "Reel Steal",
+      "menu_title": "reelsteal",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/reelstealicon.jpg"
+    },
+    {
+      "id": 513,
+      "name": "Secret of the Stones",
+      "menu_title": "secretofthestones",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/secretofthestonesicon.jpg"
+    },
+    {
+      "id": 514,
+      "name": "Silent Run",
+      "menu_title": "silentrun",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/silentrunicon.jpg"
+    },
+    {
+      "id": 515,
+      "name": "Excalibur",
+      "menu_title": "excalibur",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/excaliburicon.jpg"
+    },
+    {
+      "id": 516,
+      "name": "Lucky Angler",
+      "menu_title": "luckyangler",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/luckyanglericon.jpg"
+    },
+    {
+      "id": 517,
+      "name": "Wild Water",
+      "menu_title": "wildwater",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/wildwatericon.jpg"
+    },
+    {
+      "id": 518,
+      "name": "Master of Mistery",
+      "menu_title": "masterofmystery",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/fantasiniicon.jpg"
+    },
+    {
+      "id": 519,
+      "name": "Scarface",
+      "menu_title": "scarface",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/scarfaceicon.jpg"
+    },
+    {
+      "id": 520,
+      "name": "Spinata Grande",
+      "menu_title": "colossalpinatas",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/spinatagrandeicon.jpg"
+    },
+    {
+      "id": 521,
+      "name": "Fruit Case",
+      "menu_title": "fruits",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/fruitcaseicons.jpg"
+    },
+    {
+      "id": 522,
+      "name": "Big Bang",
+      "menu_title": "bigbang",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/bigbangicon.jpg"
+    },
+    {
+      "id": 523,
+      "name": "Wild Turkey",
+      "menu_title": "wildturkey",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/wildturkeyicon.jpg"
+    },
+    {
+      "id": 524,
+      "name": "Lost Island",
+      "menu_title": "lostisland",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/lostislandicon.jpg"
+    },
+    {
+      "id": 525,
+      "name": "Egyptian Heroes",
+      "menu_title": "egyptianheroes",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/egyptianheroesicon.jpg"
+    },
+    {
+      "id": 526,
+      "name": "Lights",
+      "menu_title": "fireflies",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/lightsicon.jpg"
+    },
+    {
+      "id": 527,
+      "name": "Hit 2 Split",
+      "menu_title": "hit2split",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/hit2spliticon.jpg"
+    },
+    {
+      "id": 528,
+      "name": "Thunderfist",
+      "menu_title": "thunderfist",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/thunderfisticon.jpg"
+    },
+    {
+      "id": 529,
+      "name": "Fruit Shop",
+      "menu_title": "fruitshop",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/fruitshopicon.jpg"
+    },
+    {
+      "id": 530,
+      "name": "Glow",
+      "menu_title": "glow",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/glowicon.jpg"
+    },
+    {
+      "id": 531,
+      "name": "Wonky Wabbits",
+      "menu_title": "rabbits",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/wonkywabbitsicon.jpg"
+    },
+    {
+      "id": 532,
+      "name": "Dracula",
+      "menu_title": "dracula",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/draculaicon.jpg"
+    },
+    {
+      "id": 533,
+      "name": "Super Eighties",
+      "menu_title": "retro-super80",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/thesuper80sicon.jpg"
+    },
+    {
+      "id": 534,
+      "name": "Seventies",
+      "menu_title": "retro-funky70",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/funky70sicon.jpg"
+    },
+    {
+      "id": 535,
+      "name": "Groovy Sixties",
+      "menu_title": "retro-groovy60",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/groovy60sicon.jpg"
+    },
+    {
+      "id": 536,
+      "name": "Pandoras Box",
+      "menu_title": "pandorasbox",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/pandorasboxicon.jpg"
+    },
+    {
+      "id": 537,
+      "name": "Trolls",
+      "menu_title": "trolls",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/trollsicon.jpg"
+    },
+    {
+      "id": 538,
+      "name": "Wild Witches",
+      "menu_title": "wildwitches",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/wildwitchesicon.jpg"
+    },
+    {
+      "id": 539,
+      "name": "The Secret of Horus",
+      "menu_title": "horus",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/horusicon.jpg"
+    },
+    {
+      "id": 540,
+      "name": "Spellcast",
+      "menu_title": "wizards",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/wizardicon.jpg"
+    },
+    {
+      "id": 541,
+      "name": "Thrill Spin",
+      "menu_title": "thrillspin",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/thrillspinicon.jpg"
+    },
+    {
+      "id": 542,
+      "name": "Viking's Treasure",
+      "menu_title": "viking",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/vikingicon.jpg"
+    },
+    {
+      "id": 544,
+      "name": "Fisticuffs",
+      "menu_title": "fisticuffs",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/fisticuffsicon.jpg"
+    },
+    {
+      "id": 545,
+      "name": "Blood Suckers",
+      "menu_title": "bloodsuckers",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/bloodsuckersicon.jpg"
+    },
+    {
+      "id": 546,
+      "name": "Neon Staxx",
+      "menu_title": "neonstaxx",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/neonstaxxicon.jpg"
+    },
+    {
+      "id": 547,
+      "name": "Nrvna",
+      "menu_title": "nrvna",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/nrvnaicon.jpg"
+    },
+    {
+      "id": 548,
+      "name": "Vegas Party",
+      "menu_title": "vegasparty",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/vegaspartyicon.jpg"
+    },
+    {
+      "id": 549,
+      "name": "Sparks",
+      "menu_title": "sparks",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/sparksicon.jpg"
+    },
+    {
+      "id": 550,
+      "name": "Bob",
+      "menu_title": "bob",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/bobicon.jpg"
+    },
+    {
+      "id": 551,
+      "name": "Bollywood Story",
+      "menu_title": "bollywoodstory",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/bollywoodstoryicon.jpg"
+    },
+    {
+      "id": 552,
+      "name": "Go Bananas",
+      "menu_title": "monkeys",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/monkeysicon.jpg"
+    },
+    {
+      "id": 553,
+      "name": "Dazzle Me",
+      "menu_title": "dazzleme",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/dazzlemeicon.jpg"
+    },
+    {
+      "id": 554,
+      "name": "JokerPro",
+      "menu_title": "jokerpro",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/jokerproicon.jpg"
+    },
+    {
+      "id": 555,
+      "name": "Mythic Maiden",
+      "menu_title": "mythicmaiden",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/mythicmaidenicon.jpg"
+    },
+    {
+      "id": 556,
+      "name": "Motorhead",
+      "menu_title": "motorhead",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/motorheadicon.jpg"
+    },
+    {
+      "id": 557,
+      "name": "The Invisible Man",
+      "menu_title": "invisibleman",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/invisiblemanicon.jpg"
+    },
+    {
+      "id": 558,
+      "name": "Secret Atlantis",
+      "menu_title": "highlights",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/highlightsicon.jpg"
+    },
+    {
+      "id": 559,
+      "name": "Aloha Cluster Pays",
+      "menu_title": "aloha",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/alohaicon.jpg"
+    },
+    {
+      "id": 560,
+      "name": "When Pigs Fly",
+      "menu_title": "whenpigsfly",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/whenpigsflyicon.jpg"
+    },
+    {
+      "id": 561,
+      "name": "Reel Rush",
+      "menu_title": "reelrush",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/reelrushicon.jpg"
+    },
+    {
+      "id": 562,
+      "name": "Jack Hammer",
+      "menu_title": "jackhammer",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/jackhammericon.jpg"
+    },
+    {
+      "id": 563,
+      "name": "King of slots",
+      "menu_title": "kingofslots",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/kingofslotsicon.jpg"
+    },
+    {
+      "id": 564,
+      "name": "Warlords - Crystals of Power",
+      "menu_title": "warlords",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/warlordsicon.jpg"
+    },
+    {
+      "id": 565,
+      "name": "Drive Multiplier Mayhem",
+      "menu_title": "multipliermayhem",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/multipliermayhemicon.jpg"
+    },
+    {
+      "id": 566,
+      "name": "Wild Wild West",
+      "menu_title": "wildwildwest",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/wildwildwesticon.jpg"
+    },
+    {
+      "id": 567,
+      "name": "FL Red Riding Hood",
+      "menu_title": "fairyred",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/fairyredicon.jpg"
+    },
+    {
+      "id": 568,
+      "name": "Tornado: Farm Escape",
+      "menu_title": "tornado",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/tornadoicon.jpg"
+    },
+    {
+      "id": 569,
+      "name": "Zombies",
+      "menu_title": "zombies",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/zombiesicon.jpg"
+    },
+    {
+      "id": 570,
+      "name": "GUNS N' ROSES",
+      "menu_title": "gunsnroses",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/gunsnrosesicon.jpg"
+    },
+    {
+      "id": 571,
+      "name": "Jimi Hendrix",
+      "menu_title": "jimihendrix",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/jimihendrixicon.jpg"
+    },
+    {
+      "id": 572,
+      "name": "The wish master",
+      "menu_title": "wishmaster",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/wishmastericon.jpg"
+    },
+    {
+      "id": 573,
+      "name": "Flowers Game Christmas",
+      "menu_title": "flowerschristmas",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/flowers-christmas-slots-game.jpg"
+    },
+    {
+      "id": 574,
+      "name": "Fruit Shop Christmas",
+      "menu_title": "fruitshopchristmas",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/fruit-shop-christmas-edition.jpg"
+    },
+    {
+      "id": 575,
+      "name": "Ghost Pirates",
+      "menu_title": "ghostpirates",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/ghostpiretes.jpg"
+    },
+    {
+      "id": 576,
+      "name": "Alien Robots",
+      "menu_title": "alienrobots",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/alienrobots.jpg"
+    },
+    {
+      "id": 577,
+      "name": "Stickers",
+      "menu_title": "stickers",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/stickersnetent.jpg"
+    },
+    {
+      "id": 578,
+      "name": "Attraction",
+      "menu_title": "attraction",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/attraction.jpg"
+    },
+    {
+      "id": 579,
+      "name": "Spacewars",
+      "menu_title": "spacewars",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/Space-Wars.png"
+    },
+    {
+      "id": 580,
+      "name": "Demolitions Quad",
+      "menu_title": "demolitionsquad",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/Demolitions-Quad.jpg"
+    },
+    {
+      "id": 581,
+      "name": "Thief",
+      "menu_title": "thief",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/logo-thief-netent-gokkast-spelen.png"
+    },
+    {
+      "id": 582,
+      "name": "Dragon Island",
+      "menu_title": "dragonisland",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/logo-dragon-island-netent-slot-game.png"
+    },
+    {
+      "id": 583,
+      "name": "Copy Cats",
+      "menu_title": "copycats",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/copycats-thumbnail.png"
+    },
+    {
+      "id": 584,
+      "name": "Butterfly Staxx",
+      "menu_title": "butterflystaxx",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/logo-butterfly-staxx-netent-slot-game.png"
+    },
+    {
+      "id": 585,
+      "name": "Lucky Eight",
+      "menu_title": "luckyeight",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/logo-lucky-8-line-netent-slot-game.png"
+    },
+    {
+      "id": 586,
+      "name": "Magic Love",
+      "menu_title": "luckyeightlove",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/logo-magic-love-netent-slot-game.png"
+    },
+    {
+      "id": 587,
+      "name": "Safari Madness",
+      "menu_title": "luckyeightsafari",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/logo-safari-madness-netent-slot-game.png"
+    },
+    {
+      "id": 588,
+      "name": "Crazy Sports",
+      "menu_title": "luckyeightsports",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/slot-crazy-sports-free-online-260x170.png"
+    },
+    {
+      "id": 589,
+      "name": "StarBurst Flash",
+      "menu_title": "starburst_flash",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/starbursticon.jpg"
+    },
+    {
+      "id": 590,
+      "name": "Secret Code",
+      "menu_title": "secretcode",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/secretcodeicon.jpg"
+    },
+    {
+      "id": 591,
+      "name": "Wolf Cub",
+      "menu_title": "wolfcub",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/wolfcubicon.jpg"
+    },
+    {
+      "id": 592,
+      "name": "Berry Burst Max",
+      "menu_title": "berryburstmax",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/berryburstmaxicon.jpg"
+    },
+    {
+      "id": 593,
+      "name": "Jumanji",
+      "menu_title": "jumanji",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/jumanjiicon.jpg"
+    },
+    {
+      "id": 594,
+      "name": "Berry Burst",
+      "menu_title": "berryburst",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/berrybursticon.jpg"
+    },
+    {
+      "id": 595,
+      "name": "Wild-O-Tron 3000",
+      "menu_title": "wildotron3000",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/wildotron3000icon.jpg"
+    },
+    {
+      "id": 596,
+      "name": "Swipe and Roll",
+      "menu_title": "swipe",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/swipeicon.jpg"
+    },
+    {
+      "id": 597,
+      "name": "Bloodsuckers II",
+      "menu_title": "bloodsuckers2",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/bloodsuckers2icon.jpg"
+    },
+    {
+      "id": 598,
+      "name": "Elements",
+      "menu_title": "elements",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/elementsicon.jpg"
+    },
+    {
+      "id": 599,
+      "name": "Double Stacks",
+      "menu_title": "doublestacks",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/doublestacksicon.jpg"
+    },
+    {
+      "id": 600,
+      "name": "Jungle Spirit",
+      "menu_title": "junglespirit",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/junglespiriticon.jpg"
+    },
+    {
+      "id": 601,
+      "name": "Halloween Jack",
+      "menu_title": "halloweenjack",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/halloweenjackicon.jpg"
+    },
+    {
+      "id": 602,
+      "name": "Jingle Spin",
+      "menu_title": "jinglespin",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/jinglespinicon.jpg"
+    },
+    {
+      "id": 603,
+      "name": "Fruit Spin",
+      "menu_title": "jewelfruits",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/jewelfruitsicon.jpg"
+    },
+    {
+      "id": 604,
+      "name": "Arabian",
+      "menu_title": "arabian",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/arabianicon.jpg"
+    },
+    {
+      "id": 605,
+      "name": "Steam Tower",
+      "menu_title": "steamtower",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/steamtowericon.jpg"
+    },
+    {
+      "id": 606,
+      "name": "Golden Grimoire",
+      "menu_title": "goldengrimoire",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/goldengrimoireicon.jpg"
+    },
+    {
+      "id": 607,
+      "name": "Twin Spin Deluxe",
+      "menu_title": "twinspindeluxe",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/twinspindeluxeicon.jpg"
+    },
+    {
+      "id": 608,
+      "name": "Vikings",
+      "menu_title": "vikings",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/vikingsicon.jpg"
+    },
+    {
+      "id": 609,
+      "name": "Dead Or Alive 2",
+      "menu_title": "dead-or-alive-2",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/dead-or-alive-2icon.jpg"
+    },
+    {
+      "id": 610,
+      "name": "Narcos",
+      "menu_title": "narcos-client",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/narcos-clienticon.jpg"
+    },
+    {
+      "id": 611,
+      "name": "Scudamore's Super Stakes",
+      "menu_title": "scudamore-client",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/scudamore-clienticon.jpg"
+    },
+    {
+      "id": 612,
+      "name": "Spinsane",
+      "menu_title": "spinsane-client",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/spinsane-clienticon.jpg"
+    },
+    {
+      "id": 613,
+      "name": "Sweety Honey Fruity",
+      "menu_title": "sweetyhoneyfruity",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/sweetyhoneyfruityicon.jpg"
+    },
+    {
+      "id": 614,
+      "name": "Twin Happiness",
+      "menu_title": "twinhappiness",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/twinhappinessicon.jpg"
+    },
+    {
+      "id": 615,
+      "name": "Victorious Max",
+      "menu_title": "victoriousmax",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/victoriousmaxicon.jpg"
+    },
+    {
+      "id": 616,
+      "name": "The Wolfs Bane",
+      "menu_title": "thewolfsnight",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/thewolfsnighticon.jpg"
+    },
+    {
+      "id": 617,
+      "name": "Cosmic Eclipse",
+      "menu_title": "cosmiceclipse",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/cosmiceclipseicon.jpg"
+    },
+    {
+      "id": 619,
+      "name": "Santa vs Rudolf",
+      "menu_title": "santavsrudolf",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/santavsrudolficon.jpg"
+    },
+    {
+      "id": 620,
+      "name": "King of 3 Kingdoms",
+      "menu_title": "kingof3kingdoms",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/kingof3kingdomsicon.jpg"
+    },
+    {
+      "id": 621,
+      "name": "Pirate from The East",
+      "menu_title": "piratefromtheeast",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/piratefromtheeasticon.jpg"
+    },
+    {
+      "id": 622,
+      "name": "Whos The Bride",
+      "menu_title": "whosthebride",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/whosthebrideicon.jpg"
+    },
+    {
+      "id": 623,
+      "name": "East Sea Dragon King",
+      "menu_title": "eastseadragonking",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/eastseadragonkingicon.jpg"
+    },
+    {
+      "id": 624,
+      "name": "Fortune Rangers",
+      "menu_title": "fortunerangers",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/fortunerangersicon.jpg"
+    },
+    {
+      "id": 625,
+      "name": "Long Pao",
+      "menu_title": "longpao",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/longpaoicon.jpg"
+    },
+    {
+      "id": 627,
+      "name": "Treasure Rain",
+      "menu_title": "treasurerain",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/treasurerainicon.jpg"
+    },
+    {
+      "id": 628,
+      "name": "Secrets of Christmas",
+      "menu_title": "secretsofchristmas",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/secretsofchristmasicon.jpg"
+    },
+    {
+      "id": 700,
+      "name": "European Roulette",
+      "menu_title": "europeanroulette3",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/europeanroulette3icon.jpg"
+    },
+    {
+      "id": 701,
+      "name": "French Roulette",
+      "menu_title": "frenchroulette3",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/frenchroulette3icon.jpg"
+    },
+    {
+      "id": 702,
+      "name": "American Roulette",
+      "menu_title": "americanroulette3",
+      "category": "netent",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/americanroulette3icon.jpg"
+    },
+    {
+      "id": 703,
+      "name": "Roulette 2 Advanced ",
+      "menu_title": "roulette2adv",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/roulette2advicon.jpg"
+    },
+    {
+      "id": 704,
+      "name": "Roulette Mini",
+      "menu_title": "roulettemini",
+      "category": "netent",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/netent/rouletteminiicon.jpg"
+    }
+  ],
+  "novomatic": [
+    {
+      "id": 1001,
+      "name": "Book of Ra Deluxe",
+      "menu_title": "bookofradeluxe",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/book-of-ra-win-tips.jpg"
+    },
+    {
+      "id": 1002,
+      "name": "Book of Ra Classic",
+      "menu_title": "bookofraclassic",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/1_book_of_ra.jpg"
+    },
+    {
+      "id": 1003,
+      "name": "Lord of the Ocean",
+      "menu_title": "lordoftheocean",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/lord_of_the_ocean.jpg"
+    },
+    {
+      "id": 1004,
+      "name": "Red Lady",
+      "menu_title": "redlady",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/Red-Lady-Free-Slot.jpg"
+    },
+    {
+      "id": 1005,
+      "name": "Sizzling Hot Deluxe",
+      "menu_title": "sizzlinghotdeluxe",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/sizzling-hot-deluxe.jpg"
+    },
+    {
+      "id": 1006,
+      "name": "Plenty on Twenty",
+      "menu_title": "plentyontwenty",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/plenty-on-twenty.jpg"
+    },
+    {
+      "id": 1007,
+      "name": "Lucky Lady's Charm Deluxe",
+      "menu_title": "luckyladyscharmdeluxe",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/Lucky-Lady-Charm-Deluxe-slot.jpeg"
+    },
+    {
+      "id": 1008,
+      "name": "Katana",
+      "menu_title": "katana",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/katana.jpg"
+    },
+    {
+      "id": 1009,
+      "name": "Dolphin's Pearl Deluxe",
+      "menu_title": "dolphinspearldeluxe",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/dolphins-pearl.jpg"
+    },
+    {
+      "id": 1010,
+      "name": "Roaring Forties",
+      "menu_title": "roaringforties",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/roaring-forties-logo.png"
+    },
+    {
+      "id": 1011,
+      "name": "Just Jewels Deluxe",
+      "menu_title": "justjewelsdeluxe",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/just-jewels-deluxe-novomatic-slot-oyunu-novomatic-slot-oyunu.png"
+    },
+    {
+      "id": 1012,
+      "name": "Mystic Secrets",
+      "menu_title": "mysticsecrets",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/7244_417fbfdf7971a0c04e9e4549b476f8b5.jpg"
+    },
+    {
+      "id": 1013,
+      "name": "Gorilla",
+      "menu_title": "gorilla",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/gorilla-novomatic-big.jpg"
+    },
+    {
+      "id": 1014,
+      "name": "Columbus Deluxe",
+      "menu_title": "columbusdeluxe",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/Columbus-Deluxe-Online-Free-Slot.jpg"
+    },
+    {
+      "id": 1015,
+      "name": "Beetlemania Deluxe",
+      "menu_title": "beetlemaniadeluxe",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/beetle-mania-deluxe-online.jpg"
+    },
+    {
+      "id": 1016,
+      "name": "Diamond 7",
+      "menu_title": "diamond7",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/rsz_diamond7.jpg"
+    },
+    {
+      "id": 1017,
+      "name": "Dazzling Diamonds",
+      "menu_title": "dazzlingdiamonds",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/dazzling_diamonds_logo.jpg"
+    },
+    {
+      "id": 1018,
+      "name": "Orca",
+      "menu_title": "orca",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/18420_417fbfdf7971a0c04e9e4549b476f8b5.png"
+    },
+    {
+      "id": 1019,
+      "name": "UltraHot Deluxe",
+      "menu_title": "ultrahotdeluxe",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/Ultra-Hot-Deluxe.jpg"
+    },
+    {
+      "id": 1020,
+      "name": "Golden Ark",
+      "menu_title": "goldenark",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/golden-ark-novomatic-big.jpg"
+    },
+    {
+      "id": 1021,
+      "name": "Dolphins Pearl Classic",
+      "menu_title": "dolphinspearlclassic",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/dolphins_pearl.jpg"
+    },
+    {
+      "id": 1022,
+      "name": "Gryphons Gold Deluxe",
+      "menu_title": "gryphonsgolddeluxe",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/Gryphons_Gold_Deluxe.jpg"
+    },
+    {
+      "id": 1023,
+      "name": "Helena",
+      "menu_title": "helena",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/5495_417fbfdf7971a0c04e9e4549b476f8b5.jpg"
+    },
+    {
+      "id": 1024,
+      "name": "Plenty of Fruit 20",
+      "menu_title": "plentyoffruit20",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/17137.jpg"
+    },
+    {
+      "id": 1025,
+      "name": "Plenty of Jewels 20 Hot",
+      "menu_title": "plentyofjewels20hot",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/PlentyofJewels20Hot.jpg"
+    },
+    {
+      "id": 1026,
+      "name": "Plenty of Fruit 20 Hot",
+      "menu_title": "plentyoffruit20hot",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/game_1307_plentyoffruits20hot_teaser_520x300.jpg"
+    },
+    {
+      "id": 1027,
+      "name": "Plenty of Fruit 40",
+      "menu_title": "plentyoffruit40",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/maxresdefault.jpg"
+    },
+    {
+      "id": 1028,
+      "name": "Book of Stars",
+      "menu_title": "bookofstars",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/Book-of-Stars.jpg"
+    },
+    {
+      "id": 1029,
+      "name": "Inferno",
+      "menu_title": "inferno",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/inferno-1-200x80.png"
+    },
+    {
+      "id": 1030,
+      "name": "Magic 81",
+      "menu_title": "magic81",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/7383_e88df09c5ff3aaafe1e4f76a0daee289.jpg"
+    },
+    {
+      "id": 1031,
+      "name": "Pharaohs Ring",
+      "menu_title": "pharaohsring",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/pharaohs-ring-logo.jpg"
+    },
+    {
+      "id": 1032,
+      "name": "Mega Joker",
+      "menu_title": "megajoker",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/mega_joker_slot_logo.jpg"
+    },
+    {
+      "id": 1033,
+      "name": "Xtra Hot",
+      "menu_title": "xtrahot",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/xtra-hot-logo.jpg"
+    },
+    {
+      "id": 1034,
+      "name": "Book of Ra Deluxe 6",
+      "menu_title": "bookofradeluxe6",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/book-of-ra-deluxe-6-slot.jpg"
+    },
+    {
+      "id": 1035,
+      "name": "Rex",
+      "menu_title": "rex",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/Rex.jpg"
+    },
+    {
+      "id": 1036,
+      "name": "Fruitilicious",
+      "menu_title": "fruitilicious",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/7 Fruitilicious.jpg"
+    },
+    {
+      "id": 1037,
+      "name": "Fabulousfruits",
+      "menu_title": "fabulousfruits",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/fabulousfruitsicon.jpg"
+    },
+    {
+      "id": 1038,
+      "name": "Hot Cubes",
+      "menu_title": "hotcubes",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/hot-cubes.jpg"
+    },
+    {
+      "id": 1039,
+      "name": "Dynasty of Ra",
+      "menu_title": "dynastyofra",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/6951_e88df09c5ff3aaafe1e4f76a0daee289.jpg"
+    },
+    {
+      "id": 1040,
+      "name": "Dragon's Pearl",
+      "menu_title": "novodragonspearl",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/Dragon_Pearl.jpg"
+    },
+    {
+      "id": 1041,
+      "name": "Hold your Horses",
+      "menu_title": "holdyourhorses",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/hold-your-horses.jpg"
+    },
+    {
+      "id": 1042,
+      "name": "Indian Spirit",
+      "menu_title": "indianspirit",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/indianspiriticon.jpg"
+    },
+    {
+      "id": 1043,
+      "name": "Power Stars",
+      "menu_title": "powerstars",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/powerstarsicon.jpg"
+    },
+    {
+      "id": 1044,
+      "name": "Supra Hot",
+      "menu_title": "suprahot",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/suprahoticon.jpg"
+    },
+    {
+      "id": 1045,
+      "name": "Flamenco Roses",
+      "menu_title": "flamencoroses",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/flamencorosesicon.jpg"
+    },
+    {
+      "id": 1046,
+      "name": "Always Hot Deluxe",
+      "menu_title": "alwayshotdeluxe",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/alwayshotdeluxeicon.jpg"
+    },
+    {
+      "id": 1047,
+      "name": "Queen of Hearts Deluxe",
+      "menu_title": "queenofheartsdeluxe",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/queenofheartsdeluxeicon.jpg"
+    },
+    {
+      "id": 1048,
+      "name": "Chicago",
+      "menu_title": "chicago",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/chicagoicon.jpg"
+    },
+    {
+      "id": 1049,
+      "name": "Random Runner 15",
+      "menu_title": "randomrunner15",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/randomrunner15icon.jpg"
+    },
+    {
+      "id": 1050,
+      "name": "Reel King",
+      "menu_title": "reelking",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/reelkingicon.jpg"
+    },
+    {
+      "id": 1051,
+      "name": "The Real King Gold Records",
+      "menu_title": "therealkinggoldrecords",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/therealkinggoldrecordsicon.jpg"
+    },
+    {
+      "id": 1052,
+      "name": "Eye of the Dragon",
+      "menu_title": "eyeofthedragon",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/eyeofthedragonicon.jpg"
+    },
+    {
+      "id": 1053,
+      "name": "Queen Cleopatra",
+      "menu_title": "queencleopatra",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/queencleopatraicon.jpg"
+    },
+    {
+      "id": 1054,
+      "name": "Empire V",
+      "menu_title": "empirev",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/empirevicon.jpg"
+    },
+    {
+      "id": 1055,
+      "name": "Fruit Sensation",
+      "menu_title": "fruitsensation",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/fruitsensationicon.jpg"
+    },
+    {
+      "id": 1056,
+      "name": "Sizzling Gems",
+      "menu_title": "sizzlinggems",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/sizzlinggemsicon.jpg"
+    },
+    {
+      "id": 1057,
+      "name": "Red Hot Fruits",
+      "menu_title": "redhotfruits",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/redhotfruitsicon.jpg"
+    },
+    {
+      "id": 1058,
+      "name": "Roaring Wilds",
+      "menu_title": "roaringwilds",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/roaringwildsicon.jpg"
+    },
+    {
+      "id": 1059,
+      "name": "Sevens",
+      "menu_title": "sevens",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/sevensicon.jpg"
+    },
+    {
+      "id": 1060,
+      "name": "Sizzling Hot 6 Extra Gold",
+      "menu_title": "sizzlinghot6extragold",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/sizzlinghot6extragoldicon.jpg"
+    },
+    {
+      "id": 1061,
+      "name": "Sizzling6",
+      "menu_title": "sizzling6",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/sizzling6icon.jpg"
+    },
+    {
+      "id": 1062,
+      "name": "Bars & Sevens",
+      "menu_title": "barsandsevens",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/barsandsevensicon.jpg"
+    },
+    {
+      "id": 1063,
+      "name": "Fruits'n Royals",
+      "menu_title": "fruitsandroyals",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/fruitsandroyalsicon.jpg"
+    },
+    {
+      "id": 1064,
+      "name": "Golden 7",
+      "menu_title": "golden7",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/golden7icon.jpg"
+    },
+    {
+      "id": 1065,
+      "name": "Sparkling Gems",
+      "menu_title": "sparklinggems",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/sparklinggemsicon.jpg"
+    },
+    {
+      "id": 1066,
+      "name": "Lucky Lady's Charm Deluxe 6",
+      "menu_title": "luckyladyscharmdeluxe6",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/luckyladyscharmdeluxe6icon.jpg"
+    },
+    {
+      "id": 1067,
+      "name": "Flame Dancer",
+      "menu_title": "flamedancer",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/flamedancericon.jpg"
+    },
+    {
+      "id": 1068,
+      "name": "Cash Runner",
+      "menu_title": "cashrunner",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/cashrunnericon.jpg"
+    },
+    {
+      "id": 1069,
+      "name": "Plenty On Twenty II Hot",
+      "menu_title": "plentyontwentyiihot",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/plentyontwentyiihoticon.jpg"
+    },
+    {
+      "id": 1070,
+      "name": "Jumping Jokers",
+      "menu_title": "jumpingjokers",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/jumpingjokersicon.jpg"
+    },
+    {
+      "id": 1071,
+      "name": "Big Runner",
+      "menu_title": "bigrunner",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/bigrunnericon.jpg"
+    },
+    {
+      "id": 1072,
+      "name": "Mystery Star",
+      "menu_title": "mysterystar",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/mysterystaricon.jpg"
+    },
+    {
+      "id": 1073,
+      "name": "Fruit Farm",
+      "menu_title": "fruitfarm",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/fruitfarmicon.jpg"
+    },
+    {
+      "id": 1074,
+      "name": "The Real King",
+      "menu_title": "therealking",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/therealkingicon.jpg"
+    },
+    {
+      "id": 1075,
+      "name": "Cindereela",
+      "menu_title": "cindereela",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/cindereelaicon.jpg"
+    },
+    {
+      "id": 1076,
+      "name": "King Of Cards",
+      "menu_title": "kingofcards",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/kingofcardsicon.jpg"
+    },
+    {
+      "id": 1077,
+      "name": "Wizard",
+      "menu_title": "wizard",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/wizardicon.jpg"
+    },
+    {
+      "id": 1078,
+      "name": "Win Wizard",
+      "menu_title": "winwizard",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/winwizardicon.jpg"
+    },
+    {
+      "id": 1079,
+      "name": "Triple Luck",
+      "menu_title": "tripleluck",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/tripleluckicon.jpg"
+    },
+    {
+      "id": 1080,
+      "name": "Bull Rush",
+      "menu_title": "bullrush",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/bullrushicon.jpg"
+    },
+    {
+      "id": 1081,
+      "name": "Ninja's Path",
+      "menu_title": "ninjapath",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/ninjapathicon.jpg"
+    },
+    {
+      "id": 1082,
+      "name": "Totally Wild",
+      "menu_title": "totallywild",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/totallywildicon.jpg"
+    },
+    {
+      "id": 1083,
+      "name": "Red Hot Burning",
+      "menu_title": "redhotburning",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/redhotburningicon.jpg"
+    },
+    {
+      "id": 1084,
+      "name": "Faust",
+      "menu_title": "faust",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/fausticon.jpg"
+    },
+    {
+      "id": 1085,
+      "name": "Coin of Apollo",
+      "menu_title": "coinofapollo",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/coinofapolloicon.jpg"
+    },
+    {
+      "id": 1086,
+      "name": "Stories Of Infintity",
+      "menu_title": "storiesofinfinity",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/storiesofinfinityicon.jpg"
+    },
+    {
+      "id": 1087,
+      "name": "Secret Elixir",
+      "menu_title": "secretelixir",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/secretelixiricon.jpg"
+    },
+    {
+      "id": 1088,
+      "name": "Captain Venture",
+      "menu_title": "captainventure",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/captainventureicon.jpg"
+    },
+    {
+      "id": 1089,
+      "name": "Red Hot 20",
+      "menu_title": "redhot20",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/redhot20icon.jpg"
+    },
+    {
+      "id": 1090,
+      "name": "Red Hot 40",
+      "menu_title": "redhot40",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/redhot40icon.jpg"
+    },
+    {
+      "id": 1091,
+      "name": "Royal Dynasty",
+      "menu_title": "royaldynasty",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/royaldynastyicon.jpg"
+    },
+    {
+      "id": 1092,
+      "name": "The Royals",
+      "menu_title": "theroyals",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/theroyalsicon.jpg"
+    },
+    {
+      "id": 1093,
+      "name": "Aztec Power",
+      "menu_title": "aztecpower",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/aztecpowericon.jpg"
+    },
+    {
+      "id": 1094,
+      "name": "Fairy Queen",
+      "menu_title": "fairyqueen",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/fairyqueenicon.jpg"
+    },
+    {
+      "id": 1095,
+      "name": "Mermaids Tale",
+      "menu_title": "mermaidstale",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/mermaidstaleicon.jpg"
+    },
+    {
+      "id": 1096,
+      "name": "Little Dragons",
+      "menu_title": "littledragons",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/littledragonsicon.jpg"
+    },
+    {
+      "id": 1097,
+      "name": "Jaguar Moon",
+      "menu_title": "jaguarmoon",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/jaguarmoonicon.jpg"
+    },
+    {
+      "id": 1098,
+      "name": "American Gangster",
+      "menu_title": "americangangster",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/americangangstericon.jpg"
+    },
+    {
+      "id": 1099,
+      "name": "Always Hot Cubes",
+      "menu_title": "alwayshotcubes",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/alwayshotcubesicon.jpg"
+    },
+    {
+      "id": 1100,
+      "name": "Pharaohs Tomb",
+      "menu_title": "pharaohstomb",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/pharaohstombicon.jpg"
+    },
+    {
+      "id": 1101,
+      "name": "Bank Raid",
+      "menu_title": "bankraid",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/bankraidicon.jpg"
+    },
+    {
+      "id": 1102,
+      "name": "Columbus",
+      "menu_title": "columbusclassic",
+      "category": "novomatic",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/columbusclassicicon.jpg"
+    },
+    {
+      "id": 1103,
+      "name": "Book of Ra Magic",
+      "menu_title": "bookoframagic",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/bookoframagicicon.jpg"
+    },
+    {
+      "id": 1104,
+      "name": "Book of Fate",
+      "menu_title": "bookoffate",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/bookoffateicon.jpg"
+    },
+    {
+      "id": 1105,
+      "name": "Action Joker",
+      "menu_title": "actionjoker",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/actionjokericon.jpg"
+    },
+    {
+      "id": 1106,
+      "name": "Buffalo Magic",
+      "menu_title": "buffalomagic",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/buffalomagicicon.jpg"
+    },
+    {
+      "id": 1107,
+      "name": "Feather Frenzy",
+      "menu_title": "featherfrenzy",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/featherfrenzyicon.jpg"
+    },
+    {
+      "id": 1108,
+      "name": "Book of Maya",
+      "menu_title": "bookofmaya",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/bookofmayaicon.jpg"
+    },
+    {
+      "id": 1109,
+      "name": "Magic 27",
+      "menu_title": "magic27",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/magic27icon.jpg"
+    },
+    {
+      "id": 1110,
+      "name": "Mayan Moons",
+      "menu_title": "mayanmoons",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/mayanmoonsicon.jpg"
+    },
+    {
+      "id": 1111,
+      "name": "Viking & Dragon",
+      "menu_title": "vikinganddragon",
+      "category": "novomatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/novomatic/vikinganddragonicon.jpg"
+    }
+  ],  
+  "bomba": [
+    {
+      "id": 6,
+      "name": "Oceans Pearl",
+      "menu_title": "Mermaid",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/ocean-pearls.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Frango",
+      "menu_title": "Frango",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/frango.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Geisha",
+      "menu_title": "Geisha",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/geisha.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Zeus",
+      "menu_title": "Zeus",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/zeus.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Magica",
+      "menu_title": "Magica",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/magica.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Oscar",
+      "menu_title": "Oscar",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/oscar.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Tequila7",
+      "menu_title": "Tequila7",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/tequila-7.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Tequila3",
+      "menu_title": "Tequila3",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/tequila.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Gold Treasure",
+      "menu_title": "GoldTreasure",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/gold-treasure.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Mysterious Crypt II",
+      "menu_title": "Egyptian",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/mysterious-crypt-2.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Dragon Hearts",
+      "menu_title": "Dragon",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/dragon-heart.jpg"
+    },
+    {
+      "id": 20,
+      "name": "7COOL",
+      "menu_title": "Sevenc",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/7cool.jpg"
+    },
+    {
+      "id": 21,
+      "name": "7HOT",
+      "menu_title": "Sevenh",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/7hot3.jpg"
+    },
+    {
+      "id": 22,
+      "name": "7HOT 7",
+      "menu_title": "Sevenh7",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/7hot7.jpg"
+    },
+    {
+      "id": 23,
+      "name": "777 Blue",
+      "menu_title": "Blue",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/777-blue-main.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Joker Jack",
+      "menu_title": "JokerJ",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/joker-jack.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Pharaoh",
+      "menu_title": "Pharaoh",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/pharaoh.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Gladiator",
+      "menu_title": "Gladiator",
+      "category": "bomba",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/bomba/gladiator.jpg"
+    }
+  ],
+  "egt": [
+    {
+      "id": 2001,
+      "name": "5 Dazzling Hot",
+      "menu_title": "FDHJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/5dazzlinghot.png"
+    },
+    {
+      "id": 2002,
+      "name": "20 Super Hot",
+      "menu_title": "TSHJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/tshslot.jpg"
+    },
+    {
+      "id": 2003,
+      "name": "Burning Hot",
+      "menu_title": "BHJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/bhslot.jpg"
+    },
+    {
+      "id": 2004,
+      "name": "Versailles Gold",
+      "menu_title": "VGJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/vgslot.jpg"
+    },
+    {
+      "id": 2005,
+      "name": "Rise of Ra",
+      "menu_title": "RORJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/rorslot.jpg"
+    },
+    {
+      "id": 2006,
+      "name": "40 Super Hot",
+      "menu_title": "FSHJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fshslot.jpg"
+    },
+    {
+      "id": 2007,
+      "name": "Flaming Hot",
+      "menu_title": "FHJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fhslot.jpg"
+    },
+    {
+      "id": 2008,
+      "name": "Amazon's Battle",
+      "menu_title": "ABJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/abslot.jpg"
+    },
+    {
+      "id": 2009,
+      "name": "Extra Stars",
+      "menu_title": "XSJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/xsslot.jpg"
+    },
+    {
+      "id": 2010,
+      "name": "More Lucky & Wild",
+      "menu_title": "MLAWJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/mlawslot.jpg"
+    },
+    {
+      "id": 2011,
+      "name": "Egypt Sky",
+      "menu_title": "ESJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/esslot.jpg"
+    },
+    {
+      "id": 2012,
+      "name": "Queen of Rio",
+      "menu_title": "QORJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/qorslot.jpg"
+    },
+    {
+      "id": 2013,
+      "name": "Caramel Hot",
+      "menu_title": "CHJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/chslot.jpg"
+    },
+    {
+      "id": 2014,
+      "name": "The Story of Alexander",
+      "menu_title": "TSOAJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/tsoaslot.jpg"
+    },
+    {
+      "id": 2015,
+      "name": "Rich World",
+      "menu_title": "RWJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/rwslot.jpg"
+    },
+    {
+      "id": 2016,
+      "name": "Mayan Spirit",
+      "menu_title": "MSJSlot",
+      "category": "egt",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/msslot.jpg"
+    },
+    {
+      "id": 2017,
+      "name": "Blue Heart",
+      "menu_title": "BHTJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/bhtslot.jpg"
+    },
+    {
+      "id": 2018,
+      "name": "Spanish Passion",
+      "menu_title": "SPJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/spslot.jpg"
+    },
+    {
+      "id": 2019,
+      "name": "Ultimate Hot",
+      "menu_title": "UHJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/uhslot.jpg"
+    },
+    {
+      "id": 2020,
+      "name": "Extremely Hot",
+      "menu_title": "EHJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/ehslot.jpg"
+    },
+    {
+      "id": 2021,
+      "name": "Supreme Hot",
+      "menu_title": "SHJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/shslot.jpg"
+    },
+    {
+      "id": 2022,
+      "name": "Shining Crown",
+      "menu_title": "SCJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/scslot.jpg"
+    },
+    {
+      "id": 2023,
+      "name": "Zodiac Wheel",
+      "menu_title": "ZWJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/zwslot.jpg"
+    },
+    {
+      "id": 2024,
+      "name": "100 Cats",
+      "menu_title": "HCJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/hcslot.jpg"
+    },
+    {
+      "id": 2025,
+      "name": "20 Diamonds",
+      "menu_title": "TDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/tdslot.jpg"
+    },
+    {
+      "id": 2026,
+      "name": "Aztec Glory",
+      "menu_title": "AGJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/agslot.jpg"
+    },
+    {
+      "id": 2027,
+      "name": "Fast Money",
+      "menu_title": "FMJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fmslot.jpg"
+    },
+    {
+      "id": 2028,
+      "name": "Retro Style",
+      "menu_title": "RTSJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/rtsslot.jpg"
+    },
+    {
+      "id": 2029,
+      "name": "The Great Egypt",
+      "menu_title": "GETJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/getslot.jpg"
+    },
+    {
+      "id": 2030,
+      "name": "Magellan",
+      "menu_title": "MPJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/mpslot.jpg"
+    },
+    {
+      "id": 2031,
+      "name": "Amazons' Story",
+      "menu_title": "ASJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/amazons_story.jpg"
+    },
+    {
+      "id": 2032,
+      "name": "Super 20",
+      "menu_title": "STJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/stslot.jpg"
+    },
+    {
+      "id": 2033,
+      "name": "Savanna's Life",
+      "menu_title": "SLJSlot",
+      "category": "egt",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/slslot.jpg"
+    },
+    {
+      "id": 2034,
+      "name": "50 Horses",
+      "menu_title": "FHSJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fhsslot.jpg"
+    },
+    {
+      "id": 2035,
+      "name": "Inca Gold II",
+      "menu_title": "IGTJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/igtslot.jpg"
+    },
+    {
+      "id": 2036,
+      "name": "Great Adventure",
+      "menu_title": "GAJSlot",
+      "category": "egt",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/gaslot.jpg"
+    },
+    {
+      "id": 2037,
+      "name": "Olympus Glory",
+      "menu_title": "OGJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/ogslot.jpg"
+    },
+    {
+      "id": 2038,
+      "name": "Grace of Cleopatra",
+      "menu_title": "GOCJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/gocslot.jpg"
+    },
+    {
+      "id": 2039,
+      "name": "Majestic Forest",
+      "menu_title": "MFJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/mfslot.jpg"
+    },
+    {
+      "id": 2040,
+      "name": "Fortune Spells",
+      "menu_title": "FSJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fsslot.jpg"
+    },
+    {
+      "id": 2041,
+      "name": "Royal Gardens",
+      "menu_title": "RGJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/rgslot.jpg"
+    },
+    {
+      "id": 2042,
+      "name": "Hot & Cash",
+      "menu_title": "HNCJSlot",
+      "category": "egt",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/hncslot.jpg"
+    },
+    {
+      "id": 2043,
+      "name": "White Wolf",
+      "menu_title": "TWWJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/twwslot.jpg"
+    },
+    {
+      "id": 2044,
+      "name": "Casino Mania",
+      "menu_title": "CMJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/cmslot.jpg"
+    },
+    {
+      "id": 2045,
+      "name": "Oil Company II",
+      "menu_title": "OCJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/ocslot.jpg"
+    },
+    {
+      "id": 2046,
+      "name": "Kashmir Gold",
+      "menu_title": "KGJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/kgslot.jpg"
+    },
+    {
+      "id": 2047,
+      "name": "Witches' Charm",
+      "menu_title": "WCJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/wcslot.jpg"
+    },
+    {
+      "id": 2048,
+      "name": "Book of Magic",
+      "menu_title": "BOMJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/bomslot.jpg"
+    },
+    {
+      "id": 2049,
+      "name": "Royal Secrets",
+      "menu_title": "RSJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/rsslot.jpg"
+    },
+    {
+      "id": 2050,
+      "name": "Amazing Amazonia",
+      "menu_title": "AAJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/aaslot.jpg"
+    },
+    {
+      "id": 2051,
+      "name": "Dragon Reels",
+      "menu_title": "DRJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/drslot.jpg"
+    },
+    {
+      "id": 2052,
+      "name": "Fruits Kingdom",
+      "menu_title": "FKJSlot",
+      "category": "egt",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fkslot.jpg"
+    },
+    {
+      "id": 2053,
+      "name": "Caramel Dice",
+      "menu_title": "CDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/caramel_dice.jpg"
+    },
+    {
+      "id": 2054,
+      "name": "Flaming Dice",
+      "menu_title": "FDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fdslot.jpg"
+    },
+    {
+      "id": 2055,
+      "name": "5 Hot Dice",
+      "menu_title": "FHDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fhdslot.jpg"
+    },
+    {
+      "id": 2056,
+      "name": "40 Super Dice",
+      "menu_title": "FSDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fsdslot.jpg"
+    },
+    {
+      "id": 2057,
+      "name": "20 Super Dice",
+      "menu_title": "TSDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/tsdslot.jpg"
+    },
+    {
+      "id": 2058,
+      "name": "Neon Dice",
+      "menu_title": "NDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/ndslot.jpg"
+    },
+    {
+      "id": 2059,
+      "name": "Supreme Dice",
+      "menu_title": "SDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/sdslot.jpg"
+    },
+    {
+      "id": 2060,
+      "name": "Extra Joker",
+      "menu_title": "XJJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/xjslot.jpg"
+    },
+    {
+      "id": 2061,
+      "name": "Dice of RA",
+      "menu_title": "DORJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/dorslot.jpg"
+    },
+    {
+      "id": 2062,
+      "name": "Burning Dice",
+      "menu_title": "BDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/bdslot.jpg"
+    },
+    {
+      "id": 2063,
+      "name": "2 Dragons",
+      "menu_title": "TDRJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/tdrslot.jpg"
+    },
+    {
+      "id": 2064,
+      "name": "Lucky & Wild",
+      "menu_title": "LAWJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/lawslot.jpg"
+    },
+    {
+      "id": 2065,
+      "name": "Forest Band",
+      "menu_title": "FBJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fbslot.jpg"
+    },
+    {
+      "id": 2066,
+      "name": "Game of Luck",
+      "menu_title": "GOLJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/golslot.jpg"
+    },
+    {
+      "id": 2067,
+      "name": "Dice and Roll",
+      "menu_title": "DARJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/darslot.jpg"
+    },
+    {
+      "id": 2068,
+      "name": "Age of Troy",
+      "menu_title": "AOTJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/aotslot.jpg"
+    },
+    {
+      "id": 2069,
+      "name": "Cats Royal",
+      "menu_title": "CRJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/crslot.jpg"
+    },
+    {
+      "id": 2070,
+      "name": "Lucky Hot",
+      "menu_title": "LHJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/lhslot.jpg"
+    },
+    {
+      "id": 2071,
+      "name": "Genius of Leonardo",
+      "menu_title": "GEOLJSlot",
+      "category": "egt",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/geolslot.jpg"
+    },
+    {
+      "id": 2072,
+      "name": "Rolling Dice",
+      "menu_title": "RDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/rdslot.jpg"
+    },
+    {
+      "id": 2073,
+      "name": "100 Dice",
+      "menu_title": "HDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/hdslot.jpg"
+    },
+    {
+      "id": 2074,
+      "name": "Circus Brilliant",
+      "menu_title": "CBJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/cbslot.jpg"
+    },
+    {
+      "id": 2075,
+      "name": "Summer Bliss",
+      "menu_title": "SBJSlot",
+      "category": "egt",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/sbslot.jpg"
+    },
+    {
+      "id": 2076,
+      "name": "Dark Queen",
+      "menu_title": "DQJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/dqslot.jpg"
+    },
+    {
+      "id": 2077,
+      "name": "Halloween",
+      "menu_title": "HWJSlot",
+      "category": "egt",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/hwslot.jpg"
+    },
+    {
+      "id": 2078,
+      "name": "More Dice and Roll",
+      "menu_title": "MDARJSlot",
+      "category": "egt",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/mdarjsloticon.jpg"
+    },
+    {
+      "id": 2079,
+      "name": "100 Super Hot",
+      "menu_title": "HSHJSlot",
+      "category": "egt",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/hshjsloticon.jpg"
+    },
+    {
+      "id": 2080,
+      "name": "The Big Journey",
+      "menu_title": "TBJJSlot",
+      "category": "egt",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/tbjjsloticon.jpg"
+    },
+    {
+      "id": 2081,
+      "name": "30 Spicy Fruits",
+      "menu_title": "TSFJSlot",
+      "category": "egt",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/tsfjsloticon.jpg"
+    },
+    {
+      "id": 2082,
+      "name": "Like a Diamond",
+      "menu_title": "LADJSlot",
+      "category": "egt",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/ladjsloticon.jpg"
+    },
+    {
+      "id": 2083,
+      "name": "40 Lucky King",
+      "menu_title": "FLKJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/flkjsloticon.jpg"
+    },
+    {
+      "id": 2084,
+      "name": "Shining Dice",
+      "menu_title": "SHDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/shdjsloticon.jpg"
+    },
+    {
+      "id": 2085,
+      "name": "Burning Hot 6",
+      "menu_title": "BHSJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/bhsjsloticon.jpg"
+    },
+    {
+      "id": 2086,
+      "name": "100 Super Dice",
+      "menu_title": "HSDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/hsdjsloticon.jpg"
+    },
+    {
+      "id": 2087,
+      "name": "30 Spicy Dice",
+      "menu_title": "THSDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/thsdjsloticon.jpg"
+    },
+    {
+      "id": 2088,
+      "name": "20 Burning Hot",
+      "menu_title": "TBHJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/tbhjsloticon.jpg"
+    },
+    {
+      "id": 2089,
+      "name": "40 Burning Hot",
+      "menu_title": "FBHJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fbhjsloticon.jpg"
+    },
+    {
+      "id": 2090,
+      "name": "40 Burning Hot 6",
+      "menu_title": "FBHSJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fbhsjsloticon.jpg"
+    },
+    {
+      "id": 2091,
+      "name": "100 Burning Hot",
+      "menu_title": "HBHJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/hbhjsloticon.jpg"
+    },
+    {
+      "id": 2092,
+      "name": "5 Burning Heart",
+      "menu_title": "FBHTJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fbhtjsloticon.jpg"
+    },
+    {
+      "id": 2093,
+      "name": "10 Burning Heart",
+      "menu_title": "TBHTJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/tbhtjsloticon.jpg"
+    },
+    {
+      "id": 2094,
+      "name": "20 Burning Dice",
+      "menu_title": "TBDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/tbdjsloticon.jpg"
+    },
+    {
+      "id": 2095,
+      "name": "20 Dazzling Hot",
+      "menu_title": "TDHJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/tdhjsloticon.jpg"
+    },
+    {
+      "id": 2096,
+      "name": "40 Mega Clover",
+      "menu_title": "FMCJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fmcjsloticon.jpg"
+    },
+    {
+      "id": 2097,
+      "name": "40 Hot & Cash",
+      "menu_title": "FHNCJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fhncjsloticon.jpg"
+    },
+    {
+      "id": 2098,
+      "name": "40 Burning Dice",
+      "menu_title": "FBDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fbdjsloticon.jpg"
+    },
+    {
+      "id": 2099,
+      "name": "More Like a Diamond",
+      "menu_title": "MLADJSlot",
+      "category": "egt",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/mladjsloticon.jpg"
+    },
+    {
+      "id": 2100,
+      "name": "Vampire Night",
+      "menu_title": "VNJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/vnjsloticon.jpg"
+    },
+    {
+      "id": 2101,
+      "name": "5 Great Star",
+      "menu_title": "FGSJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/fgsjsloticon.jpg"
+    },
+    {
+      "id": 2102,
+      "name": "Coral Island",
+      "menu_title": "CIJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/cijsloticon.jpg"
+    },
+    {
+      "id": 2103,
+      "name": "20 Joker Reels",
+      "menu_title": "TJRJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/tjrjsloticon.jpg"
+    },
+    {
+      "id": 2104,
+      "name": "Wonder Tree",
+      "menu_title": "WTJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/wtjsloticon.jpg"
+    },
+    {
+      "id": 2105,
+      "name": "20 Joker Dice",
+      "menu_title": "TJDJSlot",
+      "category": "egt",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/tjdjsloticon.jpg"
+    },
+    {
+      "id": 2200,
+      "name": "Keno Universe",
+      "menu_title": "UJKeno",
+      "category": "egt",
+      "mobile": 0,
+      "image": "https://cdn.3gtraffic.com/img/games/egt/ukeno.jpg"
+    }
+  ],
+    "wazdan": [
+    {
+      "id": 4001,
+      "name": "Black Horse",
+      "menu_title": "blackhorse",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/blackhorseicon.jpg"
+    },
+    {
+      "id": 4002,
+      "name": "Vegas Hot",
+      "menu_title": "vegashot",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/vegashoticon.jpg"
+    },
+    {
+      "id": 4003,
+      "name": "Magic Of The Ring",
+      "menu_title": "magicofthering",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/magicoftheringicon.jpg"
+    },
+    {
+      "id": 4004,
+      "name": "Hot 777",
+      "menu_title": "hot777",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/hot777icon.jpg"
+    },
+    {
+      "id": 4005,
+      "name": "105 Magic",
+      "menu_title": "bookofmagic",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/bookofmagicicon.jpg"
+    },
+    {
+      "id": 4006,
+      "name": "HighScool Manga",
+      "menu_title": "hmanga",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/hmangaicon.jpg"
+    },
+    {
+      "id": 4007,
+      "name": "Magic Fruits",
+      "menu_title": "magicfruits",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/magicfruitsicon.jpg"
+    },
+    {
+      "id": 4008,
+      "name": "Magic Fruits 27",
+      "menu_title": "magicfruits27",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/magicfruits27icon.jpg"
+    },
+    {
+      "id": 4009,
+      "name": "Magic Stars",
+      "menu_title": "magicstars",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/magicstarsicon.jpg"
+    },
+    {
+      "id": 4010,
+      "name": "Vegas Hot 81",
+      "menu_title": "vegashot81",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/vegashot81icon.jpg"
+    },
+    {
+      "id": 4011,
+      "name": "Fenix Play 27",
+      "menu_title": "fenixplay27",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/fenixplay27icon.jpg"
+    },
+    {
+      "id": 4012,
+      "name": "Fenix Play",
+      "menu_title": "fenixplay",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/fenixplayicon.jpg"
+    },
+    {
+      "id": 4013,
+      "name": "Magic Hot",
+      "menu_title": "magichot",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/magichoticon.jpg"
+    },
+    {
+      "id": 4015,
+      "name": "Fire Bird",
+      "menu_title": "firebird",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/firebirdicon.jpg"
+    },
+    {
+      "id": 4016,
+      "name": "Super hot",
+      "menu_title": "superhot",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/superhoticon.jpg"
+    },
+    {
+      "id": 4017,
+      "name": "Demon Jack 27",
+      "menu_title": "demonjack27",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/demonjack27icon.jpg"
+    },
+    {
+      "id": 4018,
+      "name": "Hell 81",
+      "menu_title": "hell81",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/hell81icon.jpg"
+    },
+    {
+      "id": 4020,
+      "name": "Fruit Mania",
+      "menu_title": "fruitmania",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/fruitmaniaicon.jpg"
+    },
+    {
+      "id": 4021,
+      "name": "Beach Party Hot",
+      "menu_title": "beachpartyhot",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/beachpartyhoticon.jpg"
+    },
+    {
+      "id": 4022,
+      "name": "Burning Stars",
+      "menu_title": "burningstars",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/burningstarsicon.jpg"
+    },
+    {
+      "id": 4024,
+      "name": "Hot Party",
+      "menu_title": "hotparty",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/hotpartyicon.jpg"
+    },
+    {
+      "id": 4025,
+      "name": "Black Hawk",
+      "menu_title": "blackhawk",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/blackhawkicon.jpg"
+    },
+    {
+      "id": 4026,
+      "name": "Magic Fruits 4",
+      "menu_title": "magicfruits4",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/magicfruits4icon.jpg"
+    },
+    {
+      "id": 4027,
+      "name": "Magic Hot 4",
+      "menu_title": "magichot4",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/magichot4icon.jpg"
+    },
+    {
+      "id": 4028,
+      "name": "Charlie The Cat",
+      "menu_title": "charliethecat",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/charliethecaticon.jpg"
+    },
+    {
+      "id": 4029,
+      "name": "Football Mania",
+      "menu_title": "footballmania",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/footballmaniaicon.jpg"
+    },
+    {
+      "id": 4031,
+      "name": "Night 81 Club",
+      "menu_title": "nightclub81",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/nightclub81icon.jpg"
+    },
+    {
+      "id": 4032,
+      "name": "DINO REELS 81",
+      "menu_title": "dinoreels81",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/dinoreels81icon.jpg"
+    },
+    {
+      "id": 4033,
+      "name": "Back To The 70's",
+      "menu_title": "backtothe70s",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/backtothe70sicon.jpg"
+    },
+    {
+      "id": 4034,
+      "name": "Lucky Queen",
+      "menu_title": "luckyqueen",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/luckyqueenicon.jpg"
+    },
+    {
+      "id": 4035,
+      "name": "Beach Party",
+      "menu_title": "beachparty",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/beachpartyicon.jpg"
+    },
+    {
+      "id": 4036,
+      "name": "Golden Sphinx",
+      "menu_title": "goldensphinx",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/goldensphinxicon.jpg"
+    },
+    {
+      "id": 4037,
+      "name": "Magic Fruits 81",
+      "menu_title": "magicfruits81",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/magicfruits81icon.jpg"
+    },
+    {
+      "id": 4038,
+      "name": "Lost Treasure",
+      "menu_title": "losttreasure",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/losttreasureicon.jpg"
+    },
+    {
+      "id": 4039,
+      "name": "Lucky Fortune",
+      "menu_title": "luckyfortune",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/luckyfortuneicon.jpg"
+    },
+    {
+      "id": 4040,
+      "name": "Captain Shark",
+      "menu_title": "captainshark",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/captainsharkicon.jpg"
+    },
+    {
+      "id": 4041,
+      "name": "Bell Wizard",
+      "menu_title": "bellwizard",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/bellwizardicon.jpg"
+    },
+    {
+      "id": 4042,
+      "name": "Corrida Romance",
+      "menu_title": "corridaromance",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/corridaromanceicon.jpg"
+    },
+    {
+      "id": 4043,
+      "name": "Crazy Cars",
+      "menu_title": "crazycars",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/crazycarsicon.jpg"
+    },
+    {
+      "id": 4044,
+      "name": "Good Luck 40",
+      "menu_title": "goodluck40",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/goodluck40icon.jpg"
+    },
+    {
+      "id": 4045,
+      "name": "Valhalla",
+      "menu_title": "valhalla",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/valhallaicon.jpg"
+    },
+    {
+      "id": 4046,
+      "name": "Magic Target",
+      "menu_title": "magictarget",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/magictargeticon.jpg"
+    },
+    {
+      "id": 4047,
+      "name": "Miami Beach",
+      "menu_title": "miamibeach",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/miamibeachicon.jpg"
+    },
+    {
+      "id": 4048,
+      "name": "Burning Reels",
+      "menu_title": "burningreels",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/burningreelsicon.jpg"
+    },
+    {
+      "id": 4049,
+      "name": "Highway To Hell",
+      "menu_title": "highwaytohell",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/highwaytohellicon.jpg"
+    },
+    {
+      "id": 4050,
+      "name": "Sizzling 777",
+      "menu_title": "sizzling777",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/sizzling777icon.jpg"
+    },
+    {
+      "id": 4051,
+      "name": "In The Forest",
+      "menu_title": "intheforest",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/intheforesticon.jpg"
+    },
+    {
+      "id": 4052,
+      "name": "Wild Girls",
+      "menu_title": "wildgirls",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/wildgirlsicon.jpg"
+    },
+    {
+      "id": 4053,
+      "name": "Haunted Hospital",
+      "menu_title": "hauntedhospital",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/hauntedhospitalicon.jpg"
+    },
+    {
+      "id": 4054,
+      "name": "Criss Cross 81",
+      "menu_title": "crisscross81",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/crisscross81icon.jpg"
+    },
+    {
+      "id": 4055,
+      "name": "Joker Explosion",
+      "menu_title": "jokerexplosion",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/jokerexplosionicon.jpg"
+    },
+    {
+      "id": 4056,
+      "name": "Fenix Play Deluxe",
+      "menu_title": "fenixplaydeluxe",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/fenixplaydeluxeicon.jpg"
+    },
+    {
+      "id": 4057,
+      "name": "Mystery Jack",
+      "menu_title": "mysteryjack",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/mysteryjackicon.jpg"
+    },
+    {
+      "id": 4058,
+      "name": "Mystery Jack Deluxe",
+      "menu_title": "mysteryjackdeluxe",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/mysteryjackdeluxeicon.jpg"
+    },
+    {
+      "id": 4059,
+      "name": "Wild Jack",
+      "menu_title": "wildjack",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/wildjackicon.jpg"
+    },
+    {
+      "id": 4060,
+      "name": "Magic Hot 4 Deluxe",
+      "menu_title": "magichot4deluxe",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/magichot4deluxeicon.jpg"
+    },
+    {
+      "id": 4061,
+      "name": "Magic Fruits 4 Deluxe",
+      "menu_title": "magicfruits4deluxe",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/magicfruits4deluxeicon.jpg"
+    },
+    {
+      "id": 4062,
+      "name": "Magic Fruits Deluxe",
+      "menu_title": "magicfruitsdeluxe",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/magicfruitsdeluxeicon.jpg"
+    },
+    {
+      "id": 4063,
+      "name": "Fenix Play 27 Deluxe",
+      "menu_title": "fenixplay27deluxe",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/fenixplay27deluxeicon.jpg"
+    },
+    {
+      "id": 4064,
+      "name": "Wild Jack 81",
+      "menu_title": "wildjack81",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/wildjack81icon.jpg"
+    },
+    {
+      "id": 4065,
+      "name": "Colin the Cat",
+      "menu_title": "colinthecat",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/colinthecaticon.jpg"
+    },
+    {
+      "id": 4066,
+      "name": "Fruit Fiesta",
+      "menu_title": "fruitfiesta",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/fruitfiestaicon.jpg"
+    },
+    {
+      "id": 4067,
+      "name": "Magic Target Deluxe",
+      "menu_title": "magictargetdeluxe",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/magictargetdeluxeicon.jpg"
+    },
+    {
+      "id": 4068,
+      "name": "Bars & 7s",
+      "menu_title": "barsand7s",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/barsand7sicon.jpg"
+    },
+    {
+      "id": 4069,
+      "name": "Wild Guns",
+      "menu_title": "wildguns",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/wildgunsicon.jpg"
+    },
+    {
+      "id": 4070,
+      "name": "Turbo Play",
+      "menu_title": "turboplay",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/turboplayicon.jpg"
+    },
+    {
+      "id": 4071,
+      "name": "Jack On Hold",
+      "menu_title": "jackonhold",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/jackonholdicon.jpg"
+    },
+    {
+      "id": 4072,
+      "name": "Hungry Shark",
+      "menu_title": "hungryshark",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/hungrysharkicon.jpg"
+    },
+    {
+      "id": 4073,
+      "name": "Wins & Replay!!!",
+      "menu_title": "winandreplay",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/winandreplayicon.jpg"
+    },
+    {
+      "id": 4074,
+      "name": "Tetri Mania",
+      "menu_title": "tetrimania",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/tetrimaniaicon.jpg"
+    },
+    {
+      "id": 4075,
+      "name": "Jackpot Builders",
+      "menu_title": "jackpotbuilders",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/jackpotbuildersicon.jpg"
+    },
+    {
+      "id": 4076,
+      "name": "Dracula Castle",
+      "menu_title": "draculacastle",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/draculacastleicon.jpg"
+    },
+    {
+      "id": 4077,
+      "name": "Triple Star",
+      "menu_title": "triplestarw",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/triplestarwicon.jpg"
+    },
+    {
+      "id": 4078,
+      "name": "Jacks Ride",
+      "menu_title": "jacksride",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/jacksrideicon.jpg"
+    },
+    {
+      "id": 4079,
+      "name": "Jumping Fruits",
+      "menu_title": "jumpingfruits",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/jumpingfruitsicon.jpg"
+    },
+    {
+      "id": 4080,
+      "name": "Vegas Reels II",
+      "menu_title": "vegasreels2",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/vegasreels2icon.jpg"
+    },
+    {
+      "id": 4081,
+      "name": "Arcade",
+      "menu_title": "arcade",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/arcadeicon.jpg"
+    },
+    {
+      "id": 4082,
+      "name": "Magic Stars 3",
+      "menu_title": "magicstars3",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/magicstars3icon.jpg"
+    },
+    {
+      "id": 4200,
+      "name": "Extra Bingo",
+      "menu_title": "extrabingo",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/extrabingoicon.jpg"
+    },
+    {
+      "id": 4300,
+      "name": "Gold Roulette",
+      "menu_title": "goldroulette",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/goldrouletteicon.jpg"
+    },
+    {
+      "id": 4301,
+      "name": "Casino Roulette",
+      "menu_title": "casinoroulette",
+      "category": "wazdan",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/wazdan/casinorouletteicon.jpg"
+    }
+  ],
+  "aristocrat": [
+    {
+      "id": 9000,
+      "name": "50 Lions",
+      "menu_title": "50_lions",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/50_lionsicon.jpg"
+    },
+    {
+      "id": 9001,
+      "name": "50 Dragons",
+      "menu_title": "50_dragons",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/50_dragonsicon.jpg"
+    },
+    {
+      "id": 9002,
+      "name": "Big Red",
+      "menu_title": "big_red",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/big_redicon.jpg"
+    },
+    {
+      "id": 9003,
+      "name": "Queen of the Nile",
+      "menu_title": "queen_of_the_nile",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/queen_of_the_nileicon.jpg"
+    },
+    {
+      "id": 9004,
+      "name": "Geisha",
+      "menu_title": "geisha_aristocrat",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/geisha_aristocraticon.jpg"
+    },
+    {
+      "id": 9005,
+      "name": "Lucky Count",
+      "menu_title": "lucky_count",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/lucky_counticon.jpg"
+    },
+    {
+      "id": 9006,
+      "name": "Dolphins Treasure",
+      "menu_title": "dolphins_treasure",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/dolphins_treasureicon.jpg"
+    },
+    {
+      "id": 9007,
+      "name": "Flame Of Olympus",
+      "menu_title": "flame_of_olympus",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/flame_of_olympusicon.jpg"
+    },
+    {
+      "id": 9008,
+      "name": "Big Ben",
+      "menu_title": "big_ben",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/big_benicon.jpg"
+    },
+    {
+      "id": 9009,
+      "name": "Wild Splash",
+      "menu_title": "wild_splash",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/wild_splashicon.jpg"
+    },
+    {
+      "id": 9010,
+      "name": "Buffalo",
+      "menu_title": "buffalo",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/buffaloicon.jpg"
+    },
+    {
+      "id": 9011,
+      "name": "Double Happiness",
+      "menu_title": "double_happiness",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/double_happinessicon.jpg"
+    },
+    {
+      "id": 9012,
+      "name": "Pompe II",
+      "menu_title": "pompeii",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/pompeiiicon.jpg"
+    },
+    {
+      "id": 9013,
+      "name": "Jaguar Mist",
+      "menu_title": "jaguar_mist",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/jaguar_misticon.jpg"
+    },
+    {
+      "id": 9014,
+      "name": "Silk Road",
+      "menu_title": "silk_road",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/silk_roadicon.jpg"
+    },
+    {
+      "id": 9015,
+      "name": "Queen Of The Nile 2",
+      "menu_title": "queen_of_the_nile_2",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/queen_of_the_nile_2icon.jpg"
+    },
+    {
+      "id": 9016,
+      "name": "Tiki Torch",
+      "menu_title": "tiki_torch",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/tiki_torchicon.jpg"
+    },
+    {
+      "id": 9017,
+      "name": "5 Dragons",
+      "menu_title": "5_dragons",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/5_dragonsicon.jpg"
+    },
+    {
+      "id": 9019,
+      "name": "Sun and Moon",
+      "menu_title": "sun_and_moon",
+      "category": "aristocrat",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/aristocrat/sun_and_moonicon.jpg"
+    }
+  ],
+  "pragmatic": [
+    {
+      "id": 7101,
+      "name": "Book of Tut",
+      "menu_title": "bookoftut",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/bookoftuticon.jpg"
+      
+    },
+    {
+      "id": 7102,
+      "name": "Dragon Tiger",
+      "menu_title": "dragontiger",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/dragontigericon.jpg"
+      
+    },
+    {
+      "id": 7103,
+      "name": "Wolf Gold",
+      "menu_title": "wolfgold",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/wolfgoldicon.jpg"
+      
+    },
+    {
+      "id": 7104,
+      "name": "Chilli Heat",
+      "menu_title": "chilliheat",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/chilliheaticon.jpg"
+      
+    },
+    {
+      "id": 7105,
+      "name": "Lucky New Year",
+      "menu_title": "luckynewyear",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/luckynewyearicon.jpg"
+      
+    },
+    {
+      "id": 7106,
+      "name": "Monkey Warrior",
+      "menu_title": "monkeywarrior",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/monkeywarrioricon.jpg"
+      
+    },
+    {
+      "id": 7107,
+      "name": "Diamond Strike",
+      "menu_title": "diamondstrike",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/diamondstrikeicon.jpg"
+      
+    },
+    {
+      "id": 7108,
+      "name": "Hot Safari",
+      "menu_title": "hotsafari",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/hotsafariicon.jpg"
+      
+    },
+    {
+      "id": 7109,
+      "name": "Wild Gladiator",
+      "menu_title": "wildgladiators",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/wildgladiatorsicon.jpg"
+      
+    },
+    {
+      "id": 7110,
+      "name": "Panther Queen",
+      "menu_title": "pantherqueen",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/pantherqueenicon.jpg"
+      
+    },
+    {
+      "id": 7111,
+      "name": "Buffalo King",
+      "menu_title": "buffaloking",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/buffalokingicon.jpg"
+      
+    },
+    {
+      "id": 7112,
+      "name": "Queen of Gold",
+      "menu_title": "queenofgold",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/queenofgoldicon.jpg"
+      
+    },
+    {
+      "id": 7113,
+      "name": "Aladdins Treasure",
+      "menu_title": "aladdinstreasure",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/aladdinstreasureicon.jpg"
+      
+    },
+    {
+      "id": 7114,
+      "name": "Extra Juicy",
+      "menu_title": "extrajuicy",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/extrajuicyicon.jpg"
+      
+    },
+    {
+      "id": 7115,
+      "name": "Pyramid King",
+      "menu_title": "pyramidking",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/pyramidkingicon.jpg"
+      
+    },
+    {
+      "id": 7116,
+      "name": "Gold Rush",
+      "menu_title": "goldrush",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/goldrushicon.jpg"
+      
+    },
+    {
+      "id": 7117,
+      "name": "8 Dragons",
+      "menu_title": "8dragons",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/8dragonsicon.jpg"
+      
+    },
+    {
+      "id": 7118,
+      "name": "Mysterious Egypt",
+      "menu_title": "mysteriousegypt",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/mysteriousegypticon.jpg"
+      
+    },
+    {
+      "id": 7119,
+      "name": "Hot to Burn",
+      "menu_title": "hottoburn",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/hottoburnicon.jpg"
+      
+    },
+    {
+      "id": 7120,
+      "name": "Ultra Burn",
+      "menu_title": "ultraburn",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/ultraburnicon.jpg"
+      
+    },
+    {
+      "id": 7121,
+      "name": "Fruit Rainbow",
+      "menu_title": "fruitrainbow",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/fruitrainbowicon.jpg"
+      
+    },
+    {
+      "id": 7122,
+      "name": "Super 7",
+      "menu_title": "super7",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/super7icon.jpg"
+      
+    },
+    {
+      "id": 7123,
+      "name": "Monkey Madness",
+      "menu_title": "monkeymadness",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/monkeymadnessicon.jpg"
+      
+    },
+    {
+      "id": 7124,
+      "name": "Aztec Gems",
+      "menu_title": "aztecgems",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/aztecgemsicon.jpg"
+      
+    },
+    {
+      "id": 7125,
+      "name": "7 monkeys",
+      "menu_title": "sevenmonkeys",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/sevenmonkeysicon.jpg"
+      
+    },
+    {
+      "id": 7126,
+      "name": "Jokers Jewels",
+      "menu_title": "jokerjewels",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/jokerjewelsicon.jpg"
+      
+    },
+    {
+      "id": 7127,
+      "name": "Tigers",
+      "menu_title": "tigers",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/tigersicon.jpg"
+      
+    },
+    {
+      "id": 7128,
+      "name": "Dragon 888",
+      "menu_title": "dragon8",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/dragon8icon.jpg"
+      
+    },
+    {
+      "id": 7129,
+      "name": "Ancient Egypt",
+      "menu_title": "egyptcls",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/egyptclsicon.jpg"
+      
+    },
+    {
+      "id": 7130,
+      "name": "Mighty Kong",
+      "menu_title": "mightykong",
+      "category": "pragmatic",
+      "mobile": 1,
+      "image": "https://cdn.3gtraffic.com/img/games/pragmatic/mightykongicon.jpg"
+      
+    }
+  ]    
+}

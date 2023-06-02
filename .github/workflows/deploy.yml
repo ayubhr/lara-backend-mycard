@@ -1,0 +1,34 @@
+name: Deploy
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Change Permission 1
+        run: sudo chgrp -R www-data storage bootstrap/cache
+      - name: Change Permission 2
+        run: sudo chmod -R ug+rwx storage bootstrap/cache
+      - name: Copy repository contents via scp
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          port: ${{ secrets.PORT }}
+          key: ${{ secrets.SSHKEY }}
+          source: "."
+          target: "/home/admin/web/mycard77.win/backend_forzza_win"
+      - name: Executing remote command
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          port: ${{ secrets.PORT }}
+          key: ${{ secrets.SSHKEY }}
+          script: |
+            cd web/mycard77.win/backend_forzza_win
+            php artisan view:cache
+            pwd

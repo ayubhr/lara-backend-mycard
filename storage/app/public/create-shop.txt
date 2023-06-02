@@ -1,0 +1,61 @@
+<div data-role='page' id='cashier' data-url='cashier_aspx' data-lang='en'>
+    <div data-tap-toggle='false' data-role='header' data-theme='b' class='tw-header' data-add-back-btn='true' data-back-btn-text='.'>
+        <h1 class='tw-header-title'>Shop register - New Shop</h1>
+    </div>
+    <div data-role='content'>
+        <ul data-role='listview' data-inset='false' style='margin-bottom:17px;margin-top:-1.1em;'>
+            <li class='ui-li-admin-account'>
+                <div class='ui-grid-a'>
+                    <div class='ui-block-a tw-inline tw-bold' style="line-height:18px; padding-left:8px; padding-top:4px;">*username* : <span id="adminBalance">*funds*</span></div>
+                    <div class='ui-block-b'>
+                        <a href='#till' class='ui-btn ui-btn-c ui-btn-inline ui-icon-home ui-btn-icon-notext tw-btn-rounded'>I</a>
+                        <form method="post" class="nested-form" id="reloadForm" action="admin/account/balance">
+                            <input type="hidden" name="routeAction" value="account/balance" />
+                            <input type="submit" data-icon="refresh" data-theme="c" data-inline="true" data-iconpos="notext" class="tw-btn-rounded" />
+                        </form>
+                    </div>
+                </div>
+            </li>
+        </ul>
+        <div id='twMainContentView'>
+            <form autocomplete='off' action='admin/shop/create-shop' method='post'>
+                 <ul data-role='listview' data-inset='false'>
+                    <li>
+                        <ul data-role='listview' data-inset='false' id="editForm">
+                            <li data-role='list-divider' class='tw-ui-li-divider' data-theme='b'>Account details</li>
+                            <li data-role='fieldcontain'>
+                                <label class='field-hint' onclick='setSimpleHintPopup(1);'>Username:</label>
+                                <div class="ui-grid-a">
+                                    <div class="ui-block-a" style="width:88%;">
+                                        <input type='text' name='username' id='username' placeholder='Utilisateur' value='' maxlength='12' data-mini='true' data-valgroup='login' autocorrect="off" autocapitalize="none" autocomplete="off" data-valfunction='username' />
+                                    </div>
+                                    <div class="ui-block-b" style="width:9%;margin-top:4px;">
+                                        <input type="button" data-icon="recycle" data-theme="i" data-inline="true" data-iconpos="notext" onclick='resetFormField(this);' />
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-role='fieldcontain'>
+                                <label class='field-hint' onclick='setSimpleHintPopup(2);'>Password:</label>
+                                <div class="ui-grid-a">
+                                    <div class="ui-block-a" style="width:88%;">
+                                        <input type='password' name='pswd' id='pswd' placeholder='Password' value='' maxlength='12' data-mini='true' data-valgroup='login' data-valfunction='pswd' />
+                                    </div>
+                                    <div class="ui-block-b" style="width:9%;margin-top:4px;">
+                                        <input type="button" data-icon="recycle" data-theme="i" data-inline="true" data-iconpos="notext" onclick='resetFormField(this);' />
+                                    </div>
+                                </div>
+                            </li>
+                            <li data-role='fieldcontain'>
+                                <div class="ui-grid-solo">
+                                    <input type='submit' value='Create account' data-mini='true' data-icon='check' data-theme='c' data-iconpos='right' onclick='return validateGroup("login");' />
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </form>
+        </div>
+        <div id='twInfoContentView' class='fieldHide'></div>
+        <div id='masterDetailsBox' class='fieldHide'></div>
+    </div>
+</div>
