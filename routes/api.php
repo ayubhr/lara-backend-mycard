@@ -52,23 +52,23 @@ Route::group(["middleware" => ["jwt.verify","is-player"] ], function () {
     //Route::post("submit-betslip", "DataController@submit_betslip");
 
     //SUBMIT BETSLIP NEW TEST
-    Route::post("submit-betslip-new", "DataController@submit_betslipNew");
+    //Route::post("submit-betslip-new", "DataController@submit_betslipNew");
 
 
 
     //LIST BETSLIPS
-    Route::get("list-betslip", "DataController@list_betslip");
-    Route::get("list-betslip-desktop/{state}", "DataController@list_betslipDesktop");
+    //Route::get("list-betslip", "DataController@list_betslip");
+    //Route::get("list-betslip-desktop/{state}", "DataController@list_betslipDesktop");
 
     //LIST BETSLIPS Closed
-    Route::get("list-betslipclosed", "DataController@list_betslipClosed");
+    //Route::get("list-betslipclosed", "DataController@list_betslipClosed");
 
     //GET SINGLE BETSLIP
-    Route::get("get-betslip/{betslip_id}", "DataController@get_betslip");
+    //Route::get("get-betslip/{betslip_id}", "DataController@get_betslip");
 
 
     //CASHOUT BETSLIP
-    Route::post("betslip-cashout", "DataController@cashoutBetslip");
+    //Route::post("betslip-cashout", "DataController@cashoutBetslip");
 
 
 
@@ -112,27 +112,27 @@ Route::group(["middleware" => ["jwt.verify","is-player"] ], function () {
 
 
     //RESERVE BETSLIP 
-    Route::post("reserve-betslip", "DataController@reserve_betslip");
+    //Route::post("reserve-betslip", "DataController@reserve_betslip");
 
 
     //Route::post("update-whois-go", "DataController@changeWhois");
 
-  Route::post("delete-admin-circuit", "DataController@deleteCircuit");
+  //Route::post("delete-admin-circuit", "DataController@deleteCircuit");
 
 
-  Route::post("get-admin-circuit", "DataController@getCircuit");
+  //Route::post("get-admin-circuit", "DataController@getCircuit");
 
 
 
     //GET RESERVED BETSLIP 
-    Route::get("get-reserved-betslip/{code}", "DataController@get_reserved_betslip");    
+    //Route::get("get-reserved-betslip/{code}", "DataController@get_reserved_betslip");    
 
 
-    Route::get("set_jackpot", "NewCasinoDataController@set_jackpot");
+    //Route::get("set_jackpot", "NewCasinoDataController@set_jackpot");
 
 
     //TEster
-    Route::get("upgames", "CasinoDataController@upGames");
+    //Route::get("upgames", "CasinoDataController@upGames");
 
     Route::get("casino/games/{type}/{provider?}", "CasinoDataController@getGames")->where('type', 'slots|live|virtual|fiable');
 
