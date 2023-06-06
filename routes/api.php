@@ -140,15 +140,15 @@ Route::group(["middleware" => ["jwt.verify","is-player"] ], function () {
 
 
 
-    Route::post("webhook/sport/wallet", "DataController@webhookwallet");
+    Route::post("webhook/wolfscorev1/sport/wallet", "DataController@webhookwallet");
 
 
-    Route::post("webhook/sport/v2/wallet", "DataController@webhookwalletSportsbook");
+    Route::post("webhook/wolfscorev1/sport/v2/wallet", "DataController@webhookwalletSportsbook");
 
 
 
 
-    Route::post("webhook/casino/wallet", "CasinoDataController@webhookwallet");
+    Route::post("webhook/wolfscorev1/casino/wallet", "CasinoDataController@webhookwallet");
 
     /*Route::get("casino/live/game/{game_id?}/{page_code?}", "CasinoDataController@launcherLive");
 
