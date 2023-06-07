@@ -362,7 +362,7 @@ class UserController extends Controller{
 
 	            $response["d"]["action"] = 1;
 				$response["d"]["status"] = 200;
-				$response["d"]["html"] =  $this->isWinMycard($origin) ? $appDownload : $html;
+				$response["d"]["html"] =  $this->isWinMycard($origin) ? $html : $html;
 				$response["d"]["redirectUri"] = 'till/tmenu';
 
 				return $response;
