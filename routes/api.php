@@ -61,7 +61,7 @@ Route::group(["middleware" => ["jwt.verify","is-player"] ], function () {
     //Route::get("list-betslip-desktop/{state}", "DataController@list_betslipDesktop");
 
     //LIST BETSLIPS Closed
-    //Route::get("list-betslipclosed", "DataController@list_betslipClosed");
+    Route::get("list-betslipclosed", "DataController@list_betslipClosed");
 
     //GET SINGLE BETSLIP
     //Route::get("get-betslip/{betslip_id}", "DataController@get_betslip");
