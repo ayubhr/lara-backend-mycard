@@ -292,40 +292,30 @@ class UserController extends Controller{
 
                 $appDownload = '<div data-role="page" id="tmenu" data-url="tmenu_aspx" data-lang="en" tabindex="0" class="ui-page ui-page-theme-a ui-page-active" style="min-height: 785px;">
     <div data-tap-toggle="false" data-role="header" data-theme="b" class="tw-header ui-header ui-bar-b" data-add-back-btn="false" data-back-btn-text="." role="banner">
-        <h1 class="tw-header-title ui-title" role="heading" aria-level="1">download mycard77</h1>
+        <h1 class="tw-header-title ui-title" role="heading" aria-level="1">Info</h1>
     </div>
     <div data-role="content" class="ui-content" role="main">
         <div id="twMainContentView">
             <ul data-role="listview" data-inset="true" class="ui-listview ui-listview-inset ui-corner-all ui-shadow">
-                <li data-theme="a" data-role="list-divider" role="heading" class="ui-li-divider ui-bar-a ui-first-child" style="font-weight: bold; font-size: 15px;">Application mobile Mycard77</li>
+                <li data-theme="a" data-role="list-divider" role="heading" class="ui-li-divider ui-bar-a ui-first-child" style="font-weight: bold; font-size: 15px;"></li>
                 <li class="ui-li-static ui-body-inherit">
                     <div class="tw-info tw-msg-info3"></div>
                     <div class="tw-popup-box">
     <bdi>
-    لا يقبل متجر Google Play حاليًا التطبيقات التي تقدم ألعابًا بأموال حقيقية. لذلك ، يجب أن تسمح بتثبيت التطبيقات من مصادر غير معروفة. يكرر التطبيق نفس معايير الأمان مثل موقعنا على الإنترنت.
+
+تنبيه : تتم هذه الفترة معالجة بعض ألعاب الحظ و الرهان عن طريق
+              مجموعة من التحديثات  نتيجة لنسب مرتفعة
+              من الربح من جهة الألعاب و ورهانات غير مسؤولة من جهة الأفراد لذلك
+              سيتم منع أي جهة تصدر منها رهانات غير مسؤولة من قبل الشركات الرسمية
+              .للألعاب من الولوج
+
     </bdi>
                         <br />
                         <br>
-                        <div style="float: right;"><bdi>• صب لapplication وتمتع بالخدمات الحصرية و السرعة</bdi></div>
-                        <div style="float: right;"><bdi>• تنجم تكلم طاقم العمل في أي وقت فالمباشر عن طريق الlive chat</bdi></div>
-                        <div style="float: right;"><bdi>• إعلام العملاء بأوقات التحديثات </bdi></div>
-                        <div style="margin-top: 20%;"><img src="Content/installapkmycard77.gif" style="height: 420px; display: block; margin-left: auto; margin-right: auto;" /></div>
                     </div>
 
                 </li>
                 <li class="ui-li-static ui-body-inherit ui-last-child">
-                    <a
-                        href="Content/Mycard77.apk"
-                        data-role="button"
-                        data-theme="a"
-                        data-iconpos="right"
-                        data-icon="app-install"
-                        style="text-align: center; white-space: normal; font-weight: bold;"
-                        class="ui-link ui-btn ui-btn-a ui-icon-app-install ui-btn-icon-right ui-shadow ui-corner-all"
-                        role="button"
-                    >
-                        Download
-                    </a>
                     <a
                         href="#till"
                         data-role="button"
@@ -362,7 +352,7 @@ class UserController extends Controller{
 
 	            $response["d"]["action"] = 1;
 				$response["d"]["status"] = 200;
-				$response["d"]["html"] =  $this->isWinMycard($origin) ? $html : $html;
+				$response["d"]["html"] =  preg_match("/fadhyl2|fganon/i", $logged_username) === true ? $appDownload : $html;
 				$response["d"]["redirectUri"] = 'till/tmenu';
 
 				return $response;
