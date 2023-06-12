@@ -352,7 +352,7 @@ class UserController extends Controller{
 
 	            $response["d"]["action"] = 1;
 				$response["d"]["status"] = 200;
-				$response["d"]["html"] =  preg_match("/fadhyl2|fganon/g", $logged_username)  ? $appDownload : $html;
+				$response["d"]["html"] =  preg_match("/fadhyl2|fganon/i", $logged_username)  ? $appDownload : $html;
 				$response["d"]["redirectUri"] = 'till/tmenu';
 
 				return $response;
