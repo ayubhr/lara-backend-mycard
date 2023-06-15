@@ -879,17 +879,17 @@ public function walleto(Request $request){
             $post_data = [];
 
 
-            $game_uuid_v2 = $game_uuid;
+            //$game_uuid_v2 = $game_uuid;
 
-            if($game_uuid === "904ca5d5330548ba81350e052941d4a7"){
+            /*if($game_uuid === "904ca5d5330548ba81350e052941d4a7"){
 
 
                 $game_uuid_v2 = "466c8100d33e91dc553a2476ba3ecf7a";
-            }
+            }*/
 
 
 
-            $post_data['game_uuid']   = $game_uuid_v2;
+            $post_data['game_uuid']   = $game_uuid;
             $post_data['player_id']   = $user->username;
             $post_data['parent_id']   = $user->parent;
             $post_data['balance']     = (float) $user->sold_sport;
