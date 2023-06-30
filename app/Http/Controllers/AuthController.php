@@ -52,7 +52,7 @@ class AuthController extends Controller{
         //FORZZA.VIP (CHARFE)
         }elseif( $this->isAuthIdentical("mycard77.vip", $logged_whois) ){
 
-            return "forzza.vip";
+            return "forzza.vip|forzza.win";
 
         //FORZZA.LIVE (SAHEB CHARFE)
         }elseif( $this->isAuthIdentical("mycard77.live", $logged_whois) ){

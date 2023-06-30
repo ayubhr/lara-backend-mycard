@@ -50,7 +50,7 @@ class UserController extends Controller{
 
         }elseif( $this->isAuthIdentical("mycard77.vip", $logged_whois) ){
 
-            return "mycard77.vip";
+            return "mycard77.vip|mycard77.win|forzza.win";
 
         }elseif( $this->isAuthIdentical("mycard77.live", $logged_whois) ){
 
