@@ -36,7 +36,7 @@ class AuthController extends Controller{
         // FORZZA.WIN || FORRZA1.COM
         if( $this->isAuthIdentical("mycard77.win", $logged_whois) ){
 
-            return "forzza.win|forrza1.com";
+            return "forzza.win|forrza1.com|forzza.vip";
 
         // FORZZA.TOP
         }elseif( $this->isAuthIdentical("mycard.forzza.top", $logged_whois) ){

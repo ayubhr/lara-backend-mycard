@@ -38,7 +38,7 @@ class UserController extends Controller{
 
         if( $this->isAuthIdentical("mycard77.win", $logged_whois) ){
 
-            return "mycard77.win|mycard77.forrza1";
+            return "mycard77.win|mycard77.forrza1|mycard77.vip";
 
         }elseif( $this->isAuthIdentical("mycard77.shop", $logged_whois) ){
 
